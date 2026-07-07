@@ -61467,7 +61467,7 @@
       "Type": "Enzyme",
       "Species": "Human",
       "Molecule": "CYP3A4",
-      "Category": "McClelland (1985), n=5 (EM)",
+      "Category": "McClelland (1984), n=5 (EM)",
       "Parameters": [
         {
           "Path": "CYP3A4|Ontogeny factor GI",
@@ -61546,7 +61546,7 @@
       "Type": "Enzyme",
       "Species": "Human",
       "Molecule": "AADAC",
-      "Category": "McClelland (1985), n=5 (EM)",
+      "Category": "McClelland (1984), n=5 (EM)",
       "Parameters": [
         {
           "Path": "AADAC|Reference concentration",
@@ -61670,7 +61670,7 @@
       "Type": "Enzyme",
       "Species": "Human",
       "Molecule": "CYP2D6",
-      "Category": "McClelland (1985), n=5 (EM)",
+      "Category": "McClelland (1984), n=5 (EM)",
       "Parameters": [
         {
           "Path": "CYP2D6|Reference concentration",
@@ -61745,7 +61745,7 @@
       "Type": "Enzyme",
       "Species": "Human",
       "Molecule": "MAOA",
-      "Category": "McClelland (1985), n=5 (EM)",
+      "Category": "McClelland (1984), n=5 (EM)",
       "Parameters": [
         {
           "Path": "MAOA|Reference concentration",
@@ -61869,7 +61869,7 @@
       "Type": "Transporter",
       "Species": "Human",
       "Molecule": "ABCB1",
-      "Category": "McClelland (1985), n=5 (EM)",
+      "Category": "McClelland (1984), n=5 (EM)",
       "Parameters": [
         {
           "Path": "ABCB1|Reference concentration",
@@ -62205,7 +62205,7 @@
       "Type": "Transporter",
       "Species": "Human",
       "Molecule": "OATP1B1",
-      "Category": "McClelland (1985), n=5 (EM)",
+      "Category": "McClelland (1984), n=5 (EM)",
       "Parameters": [
         {
           "Path": "OATP1B1|Reference concentration",
@@ -62477,7 +62477,7 @@
       "Type": "OtherProtein",
       "Species": "Human",
       "Molecule": "ATP1A2",
-      "Category": "McClelland (1985), n=5 (EM)",
+      "Category": "McClelland (1984), n=5 (EM)",
       "Parameters": [
         {
           "Path": "ATP1A2|Reference concentration",
@@ -62597,7 +62597,7 @@
       "Type": "Transporter",
       "Species": "Human",
       "Molecule": "OCT2",
-      "Category": "McClelland (1985), n=5 (EM)",
+      "Category": "McClelland (1984), n=5 (EM)",
       "Parameters": [
         {
           "Path": "OCT2|Reference concentration",
@@ -62885,7 +62885,7 @@
       "Type": "Transporter",
       "Species": "Human",
       "Molecule": "MATE2-K",
-      "Category": "McClelland (1985), n=5 (EM)",
+      "Category": "McClelland (1984), n=5 (EM)",
       "Parameters": [
         {
           "Path": "MATE2-K|Reference concentration",
@@ -63133,7 +63133,7 @@
       "Type": "Enzyme",
       "Species": "Human",
       "Molecule": "PON3",
-      "Category": "McClelland (1985), n=5 (EM)",
+      "Category": "McClelland (1984), n=5 (EM)",
       "Parameters": [
         {
           "Path": "Organism|Bone|Intracellular|PON3|Relative expression",
@@ -63253,7 +63253,7 @@
       "Type": "Enzyme",
       "Species": "Human",
       "Molecule": "CYP2C8",
-      "Category": "McClelland (1985), n=5 (EM)",
+      "Category": "McClelland (1984), n=5 (EM)",
       "Parameters": [
         {
           "Path": "CYP2C8|Reference concentration",
@@ -63328,7 +63328,7 @@
       "Type": "Enzyme",
       "Species": "Human",
       "Molecule": "UGT2B7",
-      "Category": "McClelland (1985), n=5 (EM)",
+      "Category": "McClelland (1984), n=5 (EM)",
       "Parameters": [
         {
           "Path": "Organism|Brain|Intracellular|UGT2B7|Relative expression",
@@ -63407,7 +63407,7 @@
       "Type": "Transporter",
       "Species": "Human",
       "Molecule": "ABCC3",
-      "Category": "McClelland (1985), n=5 (EM)",
+      "Category": "McClelland (1984), n=5 (EM)",
       "Parameters": [
         {
           "Path": "ABCC3|Reference concentration",
@@ -63743,7 +63743,7 @@
       "Type": "Enzyme",
       "Species": "Human",
       "Molecule": "DPYS",
-      "Category": "McClelland (1985), n=5 (EM)",
+      "Category": "McClelland (1984), n=5 (EM)",
       "Parameters": [
         {
           "Path": "DPYS|Reference concentration",
@@ -63863,7 +63863,7 @@
       "Type": "Enzyme",
       "Species": "Human",
       "Molecule": "UPB1",
-      "Category": "McClelland (1985), n=5 (EM)",
+      "Category": "McClelland (1984), n=5 (EM)",
       "Parameters": [
         {
           "Path": "Organism|Bone|Intracellular|UPB1|Relative expression",
@@ -63983,7 +63983,7 @@
       "Type": "Enzyme",
       "Species": "Human",
       "Molecule": "DPYD",
-      "Category": "McClelland (1985), n=5 (EM)",
+      "Category": "McClelland (1984), n=5 (EM)",
       "Parameters": [
         {
           "Path": "DPYD|Reference concentration",
@@ -64107,7 +64107,7 @@
       "Type": "Transporter",
       "Species": "Human",
       "Molecule": "ABCC4",
-      "Category": "McClelland (1985), n=5 (EM)",
+      "Category": "McClelland (1984), n=5 (EM)",
       "Parameters": [
         {
           "Path": "ABCC4|Reference concentration",
@@ -64443,7 +64443,7 @@
       "Type": "Transporter",
       "Species": "Human",
       "Molecule": "SLC22A7",
-      "Category": "McClelland (1985), n=5 (EM)",
+      "Category": "McClelland (1984), n=5 (EM)",
       "Parameters": [
         {
           "Path": "Organism|Bone|Intracellular|SLC22A7|Relative expression",
@@ -64779,7 +64779,7 @@
       "Type": "Transporter",
       "Species": "Human",
       "Molecule": "Liver_influx_gemfibrozil",
-      "Category": "McClelland (1985), n=5 (EM)",
+      "Category": "McClelland (1984), n=5 (EM)",
       "Parameters": [
         {
           "Path": "Liver_influx_gemfibrozil|Reference concentration",
@@ -65031,7 +65031,7 @@
       "Type": "Enzyme",
       "Species": "Human",
       "Molecule": "CYP1A2",
-      "Category": "McClelland (1985), n=5 (EM)",
+      "Category": "McClelland (1984), n=5 (EM)",
       "Parameters": [
         {
           "Path": "CYP1A2|Reference concentration",
@@ -105760,7 +105760,7 @@
       ]
     },
     {
-      "Name": "McClelland (1985), n=5 (EM)",
+      "Name": "McClelland (1984), n=5 (EM)",
       "Seed": 526540375,
       "OriginData": {
         "CalculationMethods": [
@@ -105786,26 +105786,26 @@
         }
       ],
       "ExpressionProfiles": [
-        "CYP3A4|Human|McClelland (1985), n=5 (EM)",
-        "AADAC|Human|McClelland (1985), n=5 (EM)",
-        "CYP2D6|Human|McClelland (1985), n=5 (EM)",
-        "MAOA|Human|McClelland (1985), n=5 (EM)",
-        "ABCB1|Human|McClelland (1985), n=5 (EM)",
-        "OATP1B1|Human|McClelland (1985), n=5 (EM)",
-        "ATP1A2|Human|McClelland (1985), n=5 (EM)",
-        "OCT2|Human|McClelland (1985), n=5 (EM)",
-        "MATE2-K|Human|McClelland (1985), n=5 (EM)",
-        "PON3|Human|McClelland (1985), n=5 (EM)",
-        "CYP2C8|Human|McClelland (1985), n=5 (EM)",
-        "UGT2B7|Human|McClelland (1985), n=5 (EM)",
-        "ABCC3|Human|McClelland (1985), n=5 (EM)",
-        "DPYS|Human|McClelland (1985), n=5 (EM)",
-        "UPB1|Human|McClelland (1985), n=5 (EM)",
-        "DPYD|Human|McClelland (1985), n=5 (EM)",
-        "ABCC4|Human|McClelland (1985), n=5 (EM)",
-        "SLC22A7|Human|McClelland (1985), n=5 (EM)",
-        "Liver_influx_gemfibrozil|Human|McClelland (1985), n=5 (EM)",
-        "CYP1A2|Human|McClelland (1985), n=5 (EM)"
+        "CYP3A4|Human|McClelland (1984), n=5 (EM)",
+        "AADAC|Human|McClelland (1984), n=5 (EM)",
+        "CYP2D6|Human|McClelland (1984), n=5 (EM)",
+        "MAOA|Human|McClelland (1984), n=5 (EM)",
+        "ABCB1|Human|McClelland (1984), n=5 (EM)",
+        "OATP1B1|Human|McClelland (1984), n=5 (EM)",
+        "ATP1A2|Human|McClelland (1984), n=5 (EM)",
+        "OCT2|Human|McClelland (1984), n=5 (EM)",
+        "MATE2-K|Human|McClelland (1984), n=5 (EM)",
+        "PON3|Human|McClelland (1984), n=5 (EM)",
+        "CYP2C8|Human|McClelland (1984), n=5 (EM)",
+        "UGT2B7|Human|McClelland (1984), n=5 (EM)",
+        "ABCC3|Human|McClelland (1984), n=5 (EM)",
+        "DPYS|Human|McClelland (1984), n=5 (EM)",
+        "UPB1|Human|McClelland (1984), n=5 (EM)",
+        "DPYD|Human|McClelland (1984), n=5 (EM)",
+        "ABCC4|Human|McClelland (1984), n=5 (EM)",
+        "SLC22A7|Human|McClelland (1984), n=5 (EM)",
+        "Liver_influx_gemfibrozil|Human|McClelland (1984), n=5 (EM)",
+        "CYP1A2|Human|McClelland (1984), n=5 (EM)"
       ]
     },
     {
@@ -109154,10 +109154,10 @@
       ]
     },
     {
-      "Name": "McClelland (1985) - paroxetine hydrochloride, 70 mg, po, n=5 (EM)",
+      "Name": "McClelland (1984) - paroxetine hydrochloride, 70 mg, po, n=5 (EM)",
       "Model": "4Comp",
       "ObservedData": [
-        "McClelland (1985) paroxetine hydrochloride, 70 mg, po, n=5 (EM), paroxetine"
+        "McClelland (1984) - paroxetine hydrochloride, 70 mg, po, n=5 (EM), paroxetine"
       ],
       "Solver": {
         "RelTol": 1e-11
@@ -109214,7 +109214,7 @@
       "OutputSelections": [
         "Organism|PeripheralVenousBlood|Paroxetine|Plasma (Peripheral Venous Blood)"
       ],
-      "Individual": "McClelland (1985), n=5 (EM)",
+      "Individual": "McClelland (1984), n=5 (EM)",
       "Compounds": [
         {
           "Name": "Paroxetine",
@@ -109341,18 +109341,18 @@
           ],
           "Curves": [
             {
-              "Name": "McClelland (1985) - paroxetine hydrochloride, 70 mg, po, n=5 (EM)-Organism-PeripheralVenousBlood-Paroxetine-Plasma (Peripheral Venous Blood)",
+              "Name": "McClelland (1984) - paroxetine hydrochloride, 70 mg, po, n=5 (EM)-Organism-PeripheralVenousBlood-Paroxetine-Plasma (Peripheral Venous Blood)",
               "X": "Time",
-              "Y": "McClelland (1985) - paroxetine hydrochloride, 70 mg, po, n=5 (EM)|Organism|PeripheralVenousBlood|Paroxetine|Plasma (Peripheral Venous Blood)",
+              "Y": "McClelland (1984) - paroxetine hydrochloride, 70 mg, po, n=5 (EM)|Organism|PeripheralVenousBlood|Paroxetine|Plasma (Peripheral Venous Blood)",
               "CurveOptions": {
                 "Color": "#FF0000",
                 "LegendIndex": 1
               }
             },
             {
-              "Name": "McClelland (1985) paroxetine hydrochloride, 70 mg, po, n=5 (EM), paroxetine-Paroxetine-ng/mL",
-              "X": "McClelland (1985) paroxetine hydrochloride, 70 mg, po, n=5 (EM), paroxetine|h",
-              "Y": "McClelland (1985) paroxetine hydrochloride, 70 mg, po, n=5 (EM), paroxetine|ObservedData|Peripheral Venous Blood|Plasma|Paroxetine|ng/mL",
+              "Name": "McClelland (1984) - paroxetine hydrochloride, 70 mg, po, n=5 (EM), paroxetine-Paroxetine-ng/mL",
+              "X": "McClelland (1984) - paroxetine hydrochloride, 70 mg, po, n=5 (EM), paroxetine|h",
+              "Y": "McClelland (1984) - paroxetine hydrochloride, 70 mg, po, n=5 (EM), paroxetine|ObservedData|Peripheral Venous Blood|Plasma|Paroxetine|ng/mL",
               "CurveOptions": {
                 "Color": "#0000FF",
                 "LegendIndex": 2,
@@ -116982,7 +116982,7 @@
       }
     },
     {
-      "Name": "McClelland (1985) paroxetine hydrochloride, 70 mg, po, n=5 (EM), paroxetine",
+      "Name": "McClelland (1984) - paroxetine hydrochloride, 70 mg, po, n=5 (EM), paroxetine",
       "ExtendedProperties": [
         {
           "Name": "Molecule",
@@ -117012,7 +117012,7 @@
             {
               "Name": "ng/mL(1)",
               "QuantityInfo": {
-                "Path": "McClelland (1985) paroxetine hydrochloride, 70 mg, po, n=5 (EM), paroxetine|ObservedData|Peripheral Venous Blood|Plasma|Paroxetine|ng/mL(1)"
+                "Path": "McClelland (1984) - paroxetine hydrochloride, 70 mg, po, n=5 (EM), paroxetine|ObservedData|Peripheral Venous Blood|Plasma|Paroxetine|ng/mL(1)"
               },
               "DataInfo": {
                 "Origin": "ObservationAuxiliary",
@@ -117035,7 +117035,7 @@
             }
           ],
           "QuantityInfo": {
-            "Path": "McClelland (1985) paroxetine hydrochloride, 70 mg, po, n=5 (EM), paroxetine|ObservedData|Peripheral Venous Blood|Plasma|Paroxetine|ng/mL"
+            "Path": "McClelland (1984) - paroxetine hydrochloride, 70 mg, po, n=5 (EM), paroxetine|ObservedData|Peripheral Venous Blood|Plasma|Paroxetine|ng/mL"
           },
           "DataInfo": {
             "Origin": "Observation",
@@ -117060,7 +117060,7 @@
       "BaseGrid": {
         "Name": "h",
         "QuantityInfo": {
-          "Path": "McClelland (1985) paroxetine hydrochloride, 70 mg, po, n=5 (EM), paroxetine|h",
+          "Path": "McClelland (1984) - paroxetine hydrochloride, 70 mg, po, n=5 (EM), paroxetine|h",
           "Type": "Time"
         },
         "DataInfo": {
@@ -119516,7 +119516,7 @@
         "Yasui-Furukori (2007) - paroxetine hydrochloride, 20 mg, po, n=13 (EM), paroxetine",
         "Schoedel (2012) - paroxetine hydrochloride, 20 mg, po, md, n=14 (EM), paroxetine",
         "van der Lee (2007) - paroxetine hydrochloride, 20 mg, po, md, n=26 (EM), paroxetine",
-        "McClelland (1985) paroxetine hydrochloride, 70 mg, po, n=5 (EM), paroxetine",
+        "McClelland (1984) - paroxetine hydrochloride, 70 mg, po, n=5 (EM), paroxetine",
         "Chen (2015) - paroxetine hydrochloride, 25 mg, po, n=4 (AS=2), paroxetine",
         "Chen (2015) - paroxetine hydrochloride, 25 mg, po, n=5 (AS=1.5), paroxetine",
         "Chen (2015) - paroxetine hydrochloride, 25 mg, po, n=11 (AS=1), paroxetine",
@@ -119566,7 +119566,7 @@
         "Sindrup (1992) - paroxetine hydrochloride, 30 mg, po, md, n=9 (EM)",
         "Segura (2005) - paroxetine hydrochloride, 20 mg, po, md, n=7 (EM)",
         "Calvo (2004) - paroxetine hydrochloride, 20 mg, po, md, n=25 (EM)",
-        "McClelland (1985) - paroxetine hydrochloride, 70 mg, po, n=5 (EM)",
+        "McClelland (1984) - paroxetine hydrochloride, 70 mg, po, n=5 (EM)",
         "Schoedel (2012) - paroxetine hydrochloride, 20 mg, po, md, n=14 (EM)",
         "Yasui-Furukori (2007) - paroxetine hydrochloride, 20 mg, po, n=12 (AS=1.25)",
         "Yasui-Furukori (2007) - paroxetine hydrochloride, 20 mg, po, n=13 (EM)",

@@ -103,7 +103,7 @@
       },
       {
         "Project": "Paroxetine",
-        "Simulation": "McClelland (1985) - paroxetine hydrochloride, 70 mg, po, n=5 (EM)",
+        "Simulation": "McClelland (1984) - paroxetine hydrochloride, 70 mg, po, n=5 (EM)",
         "SectionId": 332
       },
       {
@@ -389,9 +389,9 @@
               },
               {
                 "Project": "Paroxetine",
-                "Simulation": "McClelland (1985) - paroxetine hydrochloride, 70 mg, po, n=5 (EM)",
+                "Simulation": "McClelland (1984) - paroxetine hydrochloride, 70 mg, po, n=5 (EM)",
                 "Output": "Organism|PeripheralVenousBlood|Paroxetine|Plasma (Peripheral Venous Blood)",
-                "ObservedData": "McClelland (1985) paroxetine hydrochloride, 70 mg, po, n=5 (EM), paroxetine",
+                "ObservedData": "McClelland (1984) - paroxetine hydrochloride, 70 mg, po, n=5 (EM), paroxetine",
                 "Color": "#000000"
               },
               {
