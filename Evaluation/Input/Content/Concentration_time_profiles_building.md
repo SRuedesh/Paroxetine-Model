@@ -1,0 +1,1 @@
+The concentration-time profiles in this section show the clinical study arms used for model building. These profiles support assessment of systemic disposition, oral absorption, repeated-dose behavior, and CYP2D6 activity-score-dependent paroxetine exposure.
