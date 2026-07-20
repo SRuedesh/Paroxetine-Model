@@ -8,10 +8,6 @@
       "Category": "Lund (1982), n=1 (EM), A",
       "Parameters": [
         {
-          "Path": "CYP3A4|Ontogeny factor GI",
-          "Value": 0.9725561995
-        },
-        {
           "Path": "CYP3A4|Reference concentration",
           "Value": 4.32,
           "Unit": "µmol/l"
@@ -3618,10 +3614,6 @@
       "Molecule": "CYP3A4",
       "Category": "Lund (1982), n=1 (EM), B",
       "Parameters": [
-        {
-          "Path": "CYP3A4|Ontogeny factor GI",
-          "Value": 0.9690357954
-        },
         {
           "Path": "CYP3A4|Reference concentration",
           "Value": 4.32,
@@ -7229,10 +7221,6 @@
       "Molecule": "CYP3A4",
       "Category": "Lund (1982), n=1 (EM), C",
       "Parameters": [
-        {
-          "Path": "CYP3A4|Ontogeny factor GI",
-          "Value": 0.9709863408
-        },
         {
           "Path": "CYP3A4|Reference concentration",
           "Value": 4.32,
@@ -10840,10 +10828,6 @@
       "Molecule": "CYP3A4",
       "Category": "Lund (1982), n=1 (EM), D",
       "Parameters": [
-        {
-          "Path": "CYP3A4|Ontogeny factor GI",
-          "Value": 0.9733411289
-        },
         {
           "Path": "CYP3A4|Reference concentration",
           "Value": 4.32,
@@ -14451,10 +14435,6 @@
       "Molecule": "CYP3A4",
       "Category": "Belle (2002), n=22 (EM)",
       "Parameters": [
-        {
-          "Path": "CYP3A4|Ontogeny factor GI",
-          "Value": 0.9802352451
-        },
         {
           "Path": "CYP3A4|Reference concentration",
           "Value": 4.32,
@@ -18138,10 +18118,6 @@
       "Category": "Calvo (2004), n=25 (EM)",
       "Parameters": [
         {
-          "Path": "CYP3A4|Ontogeny factor GI",
-          "Value": 0.9709863408
-        },
-        {
           "Path": "CYP3A4|Reference concentration",
           "Value": 4.32,
           "Unit": "µmol/l"
@@ -21748,10 +21724,6 @@
       "Molecule": "CYP3A4",
       "Category": "Chen (2015), n=4 (AS=2)",
       "Parameters": [
-        {
-          "Path": "CYP3A4|Ontogeny factor GI",
-          "Value": 0.9727131854
-        },
         {
           "Path": "CYP3A4|Reference concentration",
           "Value": 4.32,
@@ -25359,10 +25331,6 @@
       "Molecule": "CYP3A4",
       "Category": "Chen (2015), n=5 (AS=1.5)",
       "Parameters": [
-        {
-          "Path": "CYP3A4|Ontogeny factor GI",
-          "Value": 0.9665714633
-        },
         {
           "Path": "CYP3A4|Reference concentration",
           "Value": 4.32,
@@ -28970,10 +28938,6 @@
       "Molecule": "CYP3A4",
       "Category": "Chen (2015), n=11 (AS=1)",
       "Parameters": [
-        {
-          "Path": "CYP3A4|Ontogeny factor GI",
-          "Value": 0.9710648338
-        },
         {
           "Path": "CYP3A4|Reference concentration",
           "Value": 4.32,
@@ -32581,10 +32545,6 @@
       "Molecule": "CYP3A4",
       "Category": "Chen (2015), n=4 (AS=0.5)",
       "Parameters": [
-        {
-          "Path": "CYP3A4|Ontogeny factor GI",
-          "Value": 0.9710648338
-        },
         {
           "Path": "CYP3A4|Reference concentration",
           "Value": 4.32,
@@ -36192,10 +36152,6 @@
       "Molecule": "CYP3A4",
       "Category": "Mürdter (2016), n=3 (AS=0)",
       "Parameters": [
-        {
-          "Path": "CYP3A4|Ontogeny factor GI",
-          "Value": 0.9702014115
-        },
         {
           "Path": "CYP3A4|Reference concentration",
           "Value": 4.32,
@@ -39803,10 +39759,6 @@
       "Molecule": "CYP3A4",
       "Category": "Mürdter (2016), n=4 (AS=0.5)",
       "Parameters": [
-        {
-          "Path": "CYP3A4|Ontogeny factor GI",
-          "Value": 0.9690357954
-        },
         {
           "Path": "CYP3A4|Reference concentration",
           "Value": 4.32,
@@ -43414,10 +43366,6 @@
       "Molecule": "CYP3A4",
       "Category": "Mürdter (2016), n=1 (AS=0.75)",
       "Parameters": [
-        {
-          "Path": "CYP3A4|Ontogeny factor GI",
-          "Value": 0.9690357954
-        },
         {
           "Path": "CYP3A4|Reference concentration",
           "Value": 4.32,
@@ -47025,10 +46973,6 @@
       "Molecule": "CYP3A4",
       "Category": "Mürdter (2016), n=2 (AS=1)",
       "Parameters": [
-        {
-          "Path": "CYP3A4|Ontogeny factor GI",
-          "Value": 0.9709863408
-        },
         {
           "Path": "CYP3A4|Reference concentration",
           "Value": 4.32,
@@ -50636,10 +50580,6 @@
       "Molecule": "CYP3A4",
       "Category": "Mürdter (2016), n=3 (AS=2)",
       "Parameters": [
-        {
-          "Path": "CYP3A4|Ontogeny factor GI",
-          "Value": 0.975695917
-        },
         {
           "Path": "CYP3A4|Reference concentration",
           "Value": 4.32,
@@ -54247,10 +54187,6 @@
       "Molecule": "CYP3A4",
       "Category": "Mürdter (2016), n=3 (AS=3)",
       "Parameters": [
-        {
-          "Path": "CYP3A4|Ontogeny factor GI",
-          "Value": 0.9709863408
-        },
         {
           "Path": "CYP3A4|Reference concentration",
           "Value": 4.32,
@@ -57858,10 +57794,6 @@
       "Molecule": "CYP3A4",
       "Category": "Massaroti (2005), n=28 (EM)",
       "Parameters": [
-        {
-          "Path": "CYP3A4|Ontogeny factor GI",
-          "Value": 0.9727524319
-        },
         {
           "Path": "CYP3A4|Reference concentration",
           "Value": 4.32,
@@ -61469,10 +61401,6 @@
       "Molecule": "CYP3A4",
       "Category": "McClelland (1984), n=5 (EM)",
       "Parameters": [
-        {
-          "Path": "CYP3A4|Ontogeny factor GI",
-          "Value": 0.9745970159
-        },
         {
           "Path": "CYP3A4|Reference concentration",
           "Value": 4.32,
@@ -65080,10 +65008,6 @@
       "Molecule": "CYP3A4",
       "Category": "Yasui-Furukori (2007), n=12 (AS=1.25)",
       "Parameters": [
-        {
-          "Path": "CYP3A4|Ontogeny factor GI",
-          "Value": 0.9700444256
-        },
         {
           "Path": "CYP3A4|Reference concentration",
           "Value": 4.32,
@@ -68691,10 +68615,6 @@
       "Molecule": "CYP3A4",
       "Category": "Yasui-Furukori (2007), n=13 (EM)",
       "Parameters": [
-        {
-          "Path": "CYP3A4|Ontogeny factor GI",
-          "Value": 0.9692951987
-        },
         {
           "Path": "CYP3A4|Reference concentration",
           "Value": 4.32,
@@ -72302,10 +72222,6 @@
       "Molecule": "CYP3A4",
       "Category": "Sindrup (1992), n=9 (EM)",
       "Parameters": [
-        {
-          "Path": "CYP3A4|Ontogeny factor GI",
-          "Value": 0.9686466903
-        },
         {
           "Path": "CYP3A4|Reference concentration",
           "Value": 4.32,
@@ -75913,10 +75829,6 @@
       "Molecule": "CYP3A4",
       "Category": "Sindrup (1992), n=8 (PM)",
       "Parameters": [
-        {
-          "Path": "CYP3A4|Ontogeny factor GI",
-          "Value": 0.9720852419
-        },
         {
           "Path": "CYP3A4|Reference concentration",
           "Value": 4.32,
@@ -79524,10 +79436,6 @@
       "Molecule": "CYP3A4",
       "Category": "Yoon (2000), n=6 (AS=2)",
       "Parameters": [
-        {
-          "Path": "CYP3A4|Ontogeny factor GI",
-          "Value": 0.9670902701
-        },
         {
           "Path": "CYP3A4|Reference concentration",
           "Value": 4.32,
@@ -83135,10 +83043,6 @@
       "Molecule": "CYP3A4",
       "Category": "Yoon (2000), n=6 (AS=1.25)",
       "Parameters": [
-        {
-          "Path": "CYP3A4|Ontogeny factor GI",
-          "Value": 0.9664417616
-        },
         {
           "Path": "CYP3A4|Reference concentration",
           "Value": 4.32,
@@ -86746,10 +86650,6 @@
       "Molecule": "CYP3A4",
       "Category": "Yoon (2000), n=3 (AS=0.5)",
       "Parameters": [
-        {
-          "Path": "CYP3A4|Ontogeny factor GI",
-          "Value": 0.9661823583
-        },
         {
           "Path": "CYP3A4|Reference concentration",
           "Value": 4.32,
@@ -90357,10 +90257,6 @@
       "Molecule": "CYP3A4",
       "Category": "Yoon (2000), n=1 (AS=0)",
       "Parameters": [
-        {
-          "Path": "CYP3A4|Ontogeny factor GI",
-          "Value": 0.9651447448
-        },
         {
           "Path": "CYP3A4|Reference concentration",
           "Value": 4.32,
@@ -93968,10 +93864,6 @@
       "Molecule": "CYP3A4",
       "Category": "Schoedel (2012) EM, n=14 (EM)",
       "Parameters": [
-        {
-          "Path": "CYP3A4|Ontogeny factor GI",
-          "Value": 0.9769518039
-        },
         {
           "Path": "CYP3A4|Reference concentration",
           "Value": 4.32,
@@ -97579,10 +97471,6 @@
       "Molecule": "CYP3A4",
       "Category": "Segura (2005), n=7 (EM)",
       "Parameters": [
-        {
-          "Path": "CYP3A4|Ontogeny factor GI",
-          "Value": 0.9672199718
-        },
         {
           "Path": "CYP3A4|Reference concentration",
           "Value": 4.32,
@@ -101190,10 +101078,6 @@
       "Molecule": "CYP3A4",
       "Category": "van der Lee (2007) n=26 (EM)",
       "Parameters": [
-        {
-          "Path": "CYP3A4|Ontogeny factor GI",
-          "Value": 0.9829674855
-        },
         {
           "Path": "CYP3A4|Reference concentration",
           "Value": 4.32,
@@ -104823,10 +104707,6 @@
       },
       "Parameters": [
         {
-          "Path": "CYP3A4|Ontogeny factor GI",
-          "Value": 0.9725561995
-        },
-        {
           "Path": "Organism|Liver|EHC continuous fraction",
           "Value": 1
         }
@@ -104879,10 +104759,6 @@
         }
       },
       "Parameters": [
-        {
-          "Path": "CYP3A4|Ontogeny factor GI",
-          "Value": 0.9690357954
-        },
         {
           "Path": "Organism|Liver|EHC continuous fraction",
           "Value": 1
@@ -104937,10 +104813,6 @@
       },
       "Parameters": [
         {
-          "Path": "CYP3A4|Ontogeny factor GI",
-          "Value": 0.9709863408
-        },
-        {
           "Path": "Organism|Liver|EHC continuous fraction",
           "Value": 1
         }
@@ -104994,10 +104866,6 @@
       },
       "Parameters": [
         {
-          "Path": "CYP3A4|Ontogeny factor GI",
-          "Value": 0.9733411289
-        },
-        {
           "Path": "Organism|Liver|EHC continuous fraction",
           "Value": 1
         }
@@ -105042,10 +104910,6 @@
         }
       },
       "Parameters": [
-        {
-          "Path": "CYP3A4|Ontogeny factor GI",
-          "Value": 0.9802352451
-        },
         {
           "Path": "Organism|Liver|EHC continuous fraction",
           "Value": 1
@@ -105101,10 +104965,6 @@
       },
       "Parameters": [
         {
-          "Path": "CYP3A4|Ontogeny factor GI",
-          "Value": 0.9709863408
-        },
-        {
           "Path": "Organism|Liver|EHC continuous fraction",
           "Value": 1
         }
@@ -105157,10 +105017,6 @@
         }
       },
       "Parameters": [
-        {
-          "Path": "CYP3A4|Ontogeny factor GI",
-          "Value": 0.9727131854
-        },
         {
           "Path": "Organism|Liver|EHC continuous fraction",
           "Value": 1
@@ -105215,10 +105071,6 @@
       },
       "Parameters": [
         {
-          "Path": "CYP3A4|Ontogeny factor GI",
-          "Value": 0.9665714633
-        },
-        {
           "Path": "Organism|Liver|EHC continuous fraction",
           "Value": 1
         }
@@ -105271,10 +105123,6 @@
         }
       },
       "Parameters": [
-        {
-          "Path": "CYP3A4|Ontogeny factor GI",
-          "Value": 0.9710648338
-        },
         {
           "Path": "Organism|Liver|EHC continuous fraction",
           "Value": 1
@@ -105329,10 +105177,6 @@
       },
       "Parameters": [
         {
-          "Path": "CYP3A4|Ontogeny factor GI",
-          "Value": 0.9710648338
-        },
-        {
           "Path": "Organism|Liver|EHC continuous fraction",
           "Value": 1
         }
@@ -105385,10 +105229,6 @@
         }
       },
       "Parameters": [
-        {
-          "Path": "CYP3A4|Ontogeny factor GI",
-          "Value": 0.9702014115
-        },
         {
           "Path": "Organism|Liver|EHC continuous fraction",
           "Value": 1
@@ -105443,10 +105283,6 @@
       },
       "Parameters": [
         {
-          "Path": "CYP3A4|Ontogeny factor GI",
-          "Value": 0.9690357954
-        },
-        {
           "Path": "Organism|Liver|EHC continuous fraction",
           "Value": 1
         }
@@ -105499,10 +105335,6 @@
         }
       },
       "Parameters": [
-        {
-          "Path": "CYP3A4|Ontogeny factor GI",
-          "Value": 0.9690357954
-        },
         {
           "Path": "Organism|Liver|EHC continuous fraction",
           "Value": 1
@@ -105557,10 +105389,6 @@
       },
       "Parameters": [
         {
-          "Path": "CYP3A4|Ontogeny factor GI",
-          "Value": 0.9709863408
-        },
-        {
           "Path": "Organism|Liver|EHC continuous fraction",
           "Value": 1
         }
@@ -105613,10 +105441,6 @@
         }
       },
       "Parameters": [
-        {
-          "Path": "CYP3A4|Ontogeny factor GI",
-          "Value": 0.975695917
-        },
         {
           "Path": "Organism|Liver|EHC continuous fraction",
           "Value": 1
@@ -105671,10 +105495,6 @@
       },
       "Parameters": [
         {
-          "Path": "CYP3A4|Ontogeny factor GI",
-          "Value": 0.9709863408
-        },
-        {
           "Path": "Organism|Liver|EHC continuous fraction",
           "Value": 1
         }
@@ -105728,10 +105548,6 @@
       },
       "Parameters": [
         {
-          "Path": "CYP3A4|Ontogeny factor GI",
-          "Value": 0.9727524319
-        },
-        {
           "Path": "Organism|Liver|EHC continuous fraction",
           "Value": 1
         }
@@ -105776,10 +105592,6 @@
         }
       },
       "Parameters": [
-        {
-          "Path": "CYP3A4|Ontogeny factor GI",
-          "Value": 0.9745970159
-        },
         {
           "Path": "Organism|Liver|EHC continuous fraction",
           "Value": 1
@@ -105830,10 +105642,6 @@
       },
       "Parameters": [
         {
-          "Path": "CYP3A4|Ontogeny factor GI",
-          "Value": 0.9700444256
-        },
-        {
           "Path": "Organism|Liver|EHC continuous fraction",
           "Value": 1
         }
@@ -105882,10 +105690,6 @@
         }
       },
       "Parameters": [
-        {
-          "Path": "CYP3A4|Ontogeny factor GI",
-          "Value": 0.9692951987
-        },
         {
           "Path": "Organism|Liver|EHC continuous fraction",
           "Value": 1
@@ -105936,10 +105740,6 @@
       },
       "Parameters": [
         {
-          "Path": "CYP3A4|Ontogeny factor GI",
-          "Value": 0.9686466903
-        },
-        {
           "Path": "Organism|Liver|EHC continuous fraction",
           "Value": 1
         }
@@ -105988,10 +105788,6 @@
         }
       },
       "Parameters": [
-        {
-          "Path": "CYP3A4|Ontogeny factor GI",
-          "Value": 0.9720852419
-        },
         {
           "Path": "Organism|Liver|EHC continuous fraction",
           "Value": 1
@@ -106042,10 +105838,6 @@
       },
       "Parameters": [
         {
-          "Path": "CYP3A4|Ontogeny factor GI",
-          "Value": 0.9670902701
-        },
-        {
           "Path": "Organism|Liver|EHC continuous fraction",
           "Value": 1
         }
@@ -106094,10 +105886,6 @@
         }
       },
       "Parameters": [
-        {
-          "Path": "CYP3A4|Ontogeny factor GI",
-          "Value": 0.9664417616
-        },
         {
           "Path": "Organism|Liver|EHC continuous fraction",
           "Value": 1
@@ -106148,10 +105936,6 @@
       },
       "Parameters": [
         {
-          "Path": "CYP3A4|Ontogeny factor GI",
-          "Value": 0.9661823583
-        },
-        {
           "Path": "Organism|Liver|EHC continuous fraction",
           "Value": 1
         }
@@ -106200,10 +105984,6 @@
         }
       },
       "Parameters": [
-        {
-          "Path": "CYP3A4|Ontogeny factor GI",
-          "Value": 0.9651447448
-        },
         {
           "Path": "Organism|Liver|EHC continuous fraction",
           "Value": 1
@@ -106258,10 +106038,6 @@
       },
       "Parameters": [
         {
-          "Path": "CYP3A4|Ontogeny factor GI",
-          "Value": 0.9769518039
-        },
-        {
           "Path": "Organism|Liver|EHC continuous fraction",
           "Value": 1
         }
@@ -106315,10 +106091,6 @@
       },
       "Parameters": [
         {
-          "Path": "CYP3A4|Ontogeny factor GI",
-          "Value": 0.9672199718
-        },
-        {
           "Path": "Organism|Liver|EHC continuous fraction",
           "Value": 1
         }
@@ -106371,10 +106143,6 @@
         }
       },
       "Parameters": [
-        {
-          "Path": "CYP3A4|Ontogeny factor GI",
-          "Value": 0.9829674855
-        },
         {
           "Path": "Organism|Liver|EHC continuous fraction",
           "Value": 1
