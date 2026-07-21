@@ -29,16 +29,3 @@ CYP3A4 metabolism is represented by Michaelis-Menten kinetics using the K<sub>m<
 The model contains unspecific hepatic clearance. The Unspecific CL<sub>hep</sub> value reported by [Rüdesheim 2022](References.md) in the publication and supplement is erroneous. The value implemented in the model is correct.
 
 Additionally, renal filtration is represented with a `GFR fraction` of 1. Mechanism-based inhibition processes for CYP2D6 and CYP3A4 are included using the K<sub>i</sub> and k<sub>inact</sub> values summarized in Section 2.2.1.
-
-### 2.3.4 Automated Parameter Identification
-
-The following parameters were optimized by fitting the model to the data:
-
-| Model Parameter |
-| --- |
-| k<sub>cat</sub> (CYP3A4) |
-| k<sub>cat</sub> (CYP2D6, AS=2) |
-| K<sub>i</sub> (CYP2D6) |
-| Unspecific CL<sub>hep</sub> |
-| `CR Weibull shape` |
-| `CR Weibull time` |
