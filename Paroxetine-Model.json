@@ -106229,16 +106229,16 @@
       ],
       "FractionUnbound": [
         {
-          "Name": "Measurement",
+          "Name": "Optimized",
           "Species": "Human",
           "Parameters": [
             {
               "Name": "Fraction unbound (plasma, reference value)",
               "Value": 0.0487321988,
               "ValueOrigin": {
-                "Source": "Publication",
-                "Method": "InVitro",
-                "Description": "Kaye et al 1989"
+                "Source": "ParameterIdentification",
+                "Method": "ParameterIdentification",
+                "Description": "Optimized"
               }
             }
           ]
@@ -107415,7 +107415,7 @@
               "X": "Sindrup (1992) - paroxetine hydrochloride, 30 mg, po, md, n=8 (PM), paroxetine (last dose)|h",
               "Y": "Sindrup (1992) - paroxetine hydrochloride, 30 mg, po, md, n=8 (PM), paroxetine (last dose)|ObservedData|Peripheral Venous Blood|Plasma|Paroxetine|ng/mL",
               "CurveOptions": {
-                "Color": "#0000FF",
+                "Color": "#FF0000",
                 "LegendIndex": 2,
                 "LineStyle": "None",
                 "Symbol": "Circle"
@@ -107426,7 +107426,7 @@
               "X": "Sindrup (1992) - paroxetine hydrochloride, 30 mg, po, md, n=8 (PM), paroxetine (first dose)|h",
               "Y": "Sindrup (1992) - paroxetine hydrochloride, 30 mg, po, md, n=8 (PM), paroxetine (first dose)|ObservedData|Peripheral Venous Blood|Plasma|Paroxetine|ng/mL",
               "CurveOptions": {
-                "Color": "#008000",
+                "Color": "#FF0000",
                 "LegendIndex": 3,
                 "LineStyle": "None",
                 "Symbol": "Circle"
@@ -107751,7 +107751,7 @@
               "X": "Sindrup (1992) - paroxetine hydrochloride, 30 mg, po, md, n=9 (EM), paroxetine (last dose)|h",
               "Y": "Sindrup (1992) - paroxetine hydrochloride, 30 mg, po, md, n=9 (EM), paroxetine (last dose)|ObservedData|Peripheral Venous Blood|Plasma|Paroxetine|ng/mL",
               "CurveOptions": {
-                "Color": "#0000FF",
+                "Color": "#FF0000",
                 "LegendIndex": 2,
                 "LineStyle": "None",
                 "Symbol": "Circle"
@@ -107762,7 +107762,7 @@
               "X": "Sindrup (1992) - paroxetine hydrochloride, 30 mg, po, md, n=9 (EM), paroxetine (first dose)|h",
               "Y": "Sindrup (1992) - paroxetine hydrochloride, 30 mg, po, md, n=9 (EM), paroxetine (first dose)|ObservedData|Peripheral Venous Blood|Plasma|Paroxetine|ng/mL",
               "CurveOptions": {
-                "Color": "#008000",
+                "Color": "#FF0000",
                 "LegendIndex": 3,
                 "LineStyle": "None",
                 "Symbol": "Circle"
@@ -108005,7 +108005,7 @@
               "X": "Massaroti (2005) - paroxetine hydrochloride, 20 mg, po, n=28 (EM), paroxetine|h",
               "Y": "Massaroti (2005) - paroxetine hydrochloride, 20 mg, po, n=28 (EM), paroxetine|ObservedData|Peripheral Venous Blood|Plasma|Paroxetine|ng/mL",
               "CurveOptions": {
-                "Color": "#0000FF",
+                "Color": "#FF0000",
                 "LegendIndex": 2,
                 "LineStyle": "None",
                 "Symbol": "Circle"
@@ -108269,7 +108269,7 @@
               "X": "Segura (2005) - paroxetine hydrochloride, 20 mg, po, md, n=7 (EM), paroxetine|h",
               "Y": "Segura (2005) - paroxetine hydrochloride, 20 mg, po, md, n=7 (EM), paroxetine|ObservedData|Peripheral Venous Blood|Plasma|Paroxetine|ng/mL",
               "CurveOptions": {
-                "Color": "#0000FF",
+                "Color": "#FF0000",
                 "LegendIndex": 2,
                 "LineStyle": "None",
                 "Symbol": "Circle"
@@ -108579,7 +108579,7 @@
               "X": "Calvo (2004) - paroxetine hydrochloride, 20 mg, po, md, n=25 (EM), paroxetine|h",
               "Y": "Calvo (2004) - paroxetine hydrochloride, 20 mg, po, md, n=25 (EM), paroxetine|ObservedData|Peripheral Venous Blood|Plasma|Paroxetine|ng/mL",
               "CurveOptions": {
-                "Color": "#0000FF",
+                "Color": "#FF0000",
                 "LegendIndex": 2,
                 "LineStyle": "None",
                 "Symbol": "Circle"
@@ -108880,7 +108880,7 @@
               "X": "Belle (2002) - paroxetine hydrochloride, 20 mg, po, md, n=22 (EM), paroxetine|h",
               "Y": "Belle (2002) - paroxetine hydrochloride, 20 mg, po, md, n=22 (EM), paroxetine|ObservedData|Peripheral Venous Blood|Plasma|Paroxetine|ng/mL",
               "CurveOptions": {
-                "Color": "#0000FF",
+                "Color": "#FF0000",
                 "LegendIndex": 2,
                 "LineStyle": "None",
                 "Symbol": "Circle"
@@ -109122,7 +109122,7 @@
               "X": "McClelland (1984) - paroxetine hydrochloride, 70 mg, po, n=5 (EM), paroxetine|h",
               "Y": "McClelland (1984) - paroxetine hydrochloride, 70 mg, po, n=5 (EM), paroxetine|ObservedData|Peripheral Venous Blood|Plasma|Paroxetine|ng/mL",
               "CurveOptions": {
-                "Color": "#0000FF",
+                "Color": "#FF0000",
                 "LegendIndex": 2,
                 "LineStyle": "None",
                 "Symbol": "Circle"
@@ -109420,7 +109420,7 @@
               "X": "Schoedel (2012) - paroxetine hydrochloride, 20 mg, po, md, n=14 (EM), paroxetine|h",
               "Y": "Schoedel (2012) - paroxetine hydrochloride, 20 mg, po, md, n=14 (EM), paroxetine|ObservedData|Peripheral Venous Blood|Plasma|Paroxetine|ng/mL",
               "CurveOptions": {
-                "Color": "#0000FF",
+                "Color": "#FF0000",
                 "LegendIndex": 2,
                 "LineStyle": "None",
                 "Symbol": "Circle"
@@ -109663,7 +109663,7 @@
               "X": "Yasui-Furukori (2007) - paroxetine hydrochloride, 20 mg, po, n=12 (AS=1.25), paroxetine|h",
               "Y": "Yasui-Furukori (2007) - paroxetine hydrochloride, 20 mg, po, n=12 (AS=1.25), paroxetine|ObservedData|Peripheral Venous Blood|Plasma|Paroxetine|ng/mL",
               "CurveOptions": {
-                "Color": "#008000",
+                "Color": "#FF0000",
                 "LegendIndex": 3,
                 "LineStyle": "None",
                 "Symbol": "Circle"
@@ -109906,7 +109906,7 @@
               "X": "Yasui-Furukori (2007) - paroxetine hydrochloride, 20 mg, po, n=13 (EM), paroxetine|h",
               "Y": "Yasui-Furukori (2007) - paroxetine hydrochloride, 20 mg, po, n=13 (EM), paroxetine|ObservedData|Peripheral Venous Blood|Plasma|Paroxetine|ng/mL",
               "CurveOptions": {
-                "Color": "#0000FF",
+                "Color": "#FF0000",
                 "LegendIndex": 2,
                 "LineStyle": "None",
                 "Symbol": "Circle"
@@ -110171,7 +110171,7 @@
               "X": "Chen (2015) - paroxetine hydrochloride, 25 mg, po, n=4 (AS=0.5), paroxetine|[h]",
               "Y": "Chen (2015) - paroxetine hydrochloride, 25 mg, po, n=4 (AS=0.5), paroxetine|ObservedData|Peripheral Venous Blood|Plasma|Paroxetine|[ng/mL]",
               "CurveOptions": {
-                "Color": "#FF00FF",
+                "Color": "#FF0000",
                 "LegendIndex": 5,
                 "LineStyle": "None",
                 "Symbol": "Circle"
@@ -110414,7 +110414,7 @@
               "X": "Chen (2015) - paroxetine hydrochloride, 25 mg, po, n=4 (AS=2), paroxetine|[h]",
               "Y": "Chen (2015) - paroxetine hydrochloride, 25 mg, po, n=4 (AS=2), paroxetine|ObservedData|Peripheral Venous Blood|Plasma|Paroxetine|[ng/mL]",
               "CurveOptions": {
-                "Color": "#0000FF",
+                "Color": "#FF0000",
                 "LegendIndex": 2,
                 "LineStyle": "None",
                 "Symbol": "Circle"
@@ -110657,7 +110657,7 @@
               "X": "Chen (2015) - paroxetine hydrochloride, 25 mg, po, n=5 (AS=1.5), paroxetine|[h]",
               "Y": "Chen (2015) - paroxetine hydrochloride, 25 mg, po, n=5 (AS=1.5), paroxetine|ObservedData|Peripheral Venous Blood|Plasma|Paroxetine|[ng/mL]",
               "CurveOptions": {
-                "Color": "#0000FF",
+                "Color": "#FF0000",
                 "LegendIndex": 2,
                 "LineStyle": "None",
                 "Symbol": "Circle"
@@ -110922,7 +110922,7 @@
               "X": "Chen (2015) - paroxetine hydrochloride, 25 mg, po, n=11 (AS=1), paroxetine|[h]",
               "Y": "Chen (2015) - paroxetine hydrochloride, 25 mg, po, n=11 (AS=1), paroxetine|ObservedData|Peripheral Venous Blood|Plasma|Paroxetine|[ng/mL]",
               "CurveOptions": {
-                "Color": "#0000FF",
+                "Color": "#FF0000",
                 "LegendIndex": 2,
                 "LineStyle": "None",
                 "Symbol": "Circle"
@@ -111172,7 +111172,7 @@
               "X": "Mürdter (2016) - paroxetine hydrochloride, 40 mg, po, md, n=3 (AS=3), paroxetine|[h]",
               "Y": "Mürdter (2016) - paroxetine hydrochloride, 40 mg, po, md, n=3 (AS=3), paroxetine|ObservedData|Peripheral Venous Blood|Plasma|Paroxetine|[ng/mL]",
               "CurveOptions": {
-                "Color": "#0000FF",
+                "Color": "#FF0000",
                 "LegendIndex": 4,
                 "LineStyle": "None",
                 "Symbol": "Circle"
@@ -111422,7 +111422,7 @@
               "X": "Mürdter (2016) - paroxetine hydrochloride, 40 mg, po, md, n=3 (AS=2), paroxetine|[h]",
               "Y": "Mürdter (2016) - paroxetine hydrochloride, 40 mg, po, md, n=3 (AS=2), paroxetine|ObservedData|Peripheral Venous Blood|Plasma|Paroxetine|[ng/mL]",
               "CurveOptions": {
-                "Color": "#008000",
+                "Color": "#FF0000",
                 "LegendIndex": 3,
                 "LineStyle": "None",
                 "Symbol": "Circle"
@@ -111672,7 +111672,7 @@
               "X": "Mürdter (2016) - paroxetine hydrochloride, 40 mg, po, md, n=3 (AS=0), paroxetine|[h]",
               "Y": "Mürdter (2016) - paroxetine hydrochloride, 40 mg, po, md, n=3 (AS=0), paroxetine|ObservedData|Peripheral Venous Blood|Plasma|Paroxetine|[ng/mL]",
               "CurveOptions": {
-                "Color": "#0000FF",
+                "Color": "#FF0000",
                 "LegendIndex": 4,
                 "LineStyle": "None",
                 "Symbol": "Circle"
@@ -111922,7 +111922,7 @@
               "X": "Mürdter (2016) - paroxetine hydrochloride, 40 mg, po, md, n=2 (AS=1), paroxetine|[h]",
               "Y": "Mürdter (2016) - paroxetine hydrochloride, 40 mg, po, md, n=2 (AS=1), paroxetine|ObservedData|Peripheral Venous Blood|Plasma|Paroxetine|[ng/mL]",
               "CurveOptions": {
-                "Color": "#0000FF",
+                "Color": "#FF0000",
                 "LegendIndex": 4,
                 "LineStyle": "None",
                 "Symbol": "Circle"
@@ -112172,7 +112172,7 @@
               "X": "Mürdter (2016) - paroxetine hydrochloride, 40 mg, po, md, n=4 (AS=0.5), paroxetine|[h]",
               "Y": "Mürdter (2016) - paroxetine hydrochloride, 40 mg, po, md, n=4 (AS=0.5), paroxetine|ObservedData|Peripheral Venous Blood|Plasma|Paroxetine|[ng/mL]",
               "CurveOptions": {
-                "Color": "#0000FF",
+                "Color": "#FF0000",
                 "LegendIndex": 4,
                 "LineStyle": "None",
                 "Symbol": "Circle"
@@ -112403,7 +112403,7 @@
               "X": "Lund (1982) - paroxetine hydrochloride, 23 mg, iv, n=1 (EM), D, paroxetine|[h]",
               "Y": "Lund (1982) - paroxetine hydrochloride, 23 mg, iv, n=1 (EM), D, paroxetine|ObservedData|Peripheral Venous Blood|Plasma|Paroxetine|[ng/mL]",
               "CurveOptions": {
-                "Color": "#0000FF",
+                "Color": "#FF0000",
                 "LegendIndex": 2,
                 "LineStyle": "None",
                 "Symbol": "Circle"
@@ -112633,7 +112633,7 @@
               "X": "Lund (1982) - paroxetine hydrochloride, 28 mg, iv, n=1 (EM), A, paroxetine|[h]",
               "Y": "Lund (1982) - paroxetine hydrochloride, 28 mg, iv, n=1 (EM), A, paroxetine|ObservedData|Peripheral Venous Blood|Plasma|Paroxetine|[ng/mL]",
               "CurveOptions": {
-                "Color": "#0000FF",
+                "Color": "#FF0000",
                 "LegendIndex": 2,
                 "LineStyle": "None",
                 "Symbol": "Circle"
@@ -112864,7 +112864,7 @@
               "X": "Lund (1982) - paroxetine hydrochloride, 28 mg, iv, n=1 (EM), B, paroxetine|[h]",
               "Y": "Lund (1982) - paroxetine hydrochloride, 28 mg, iv, n=1 (EM), B, paroxetine|ObservedData|Peripheral Venous Blood|Plasma|Paroxetine|[ng/mL]",
               "CurveOptions": {
-                "Color": "#0000FF",
+                "Color": "#FF0000",
                 "LegendIndex": 2,
                 "LineStyle": "None",
                 "Symbol": "Circle"
@@ -113095,7 +113095,7 @@
               "X": "Lund (1982) - paroxetine hydrochloride, 28 mg, iv, n=1 (EM), C, paroxetine|[h]",
               "Y": "Lund (1982) - paroxetine hydrochloride, 28 mg, iv, n=1 (EM), C, paroxetine|ObservedData|Peripheral Venous Blood|Plasma|Paroxetine|[ng/mL]",
               "CurveOptions": {
-                "Color": "#0000FF",
+                "Color": "#FF0000",
                 "LegendIndex": 2,
                 "LineStyle": "None",
                 "Symbol": "Circle"
@@ -113335,7 +113335,7 @@
               "X": "Lund (1982) - paroxetine hydrochloride, 45 mg, po, n=1 (EM), A, paroxetine|[h]",
               "Y": "Lund (1982) - paroxetine hydrochloride, 45 mg, po, n=1 (EM), A, paroxetine|ObservedData|Peripheral Venous Blood|Plasma|Paroxetine|[ng/mL]",
               "CurveOptions": {
-                "Color": "#0000FF",
+                "Color": "#FF0000",
                 "LegendIndex": 2,
                 "LineStyle": "None",
                 "Symbol": "Circle"
@@ -113575,7 +113575,7 @@
               "X": "Lund (1982) - paroxetine hydrochloride, 45 mg, po, n=1 (EM), B, paroxetine|[h]",
               "Y": "Lund (1982) - paroxetine hydrochloride, 45 mg, po, n=1 (EM), B, paroxetine|ObservedData|Peripheral Venous Blood|Plasma|Paroxetine|[ng/mL]",
               "CurveOptions": {
-                "Color": "#0000FF",
+                "Color": "#FF0000",
                 "LegendIndex": 2,
                 "LineStyle": "None",
                 "Symbol": "Circle"
@@ -113815,7 +113815,7 @@
               "X": "Lund (1982) - paroxetine hydrochloride, 45 mg, po, n=1 (EM), C, paroxetine|[h]",
               "Y": "Lund (1982) - paroxetine hydrochloride, 45 mg, po, n=1 (EM), C, paroxetine|ObservedData|Peripheral Venous Blood|Plasma|Paroxetine|[ng/mL]",
               "CurveOptions": {
-                "Color": "#0000FF",
+                "Color": "#FF0000",
                 "LegendIndex": 2,
                 "LineStyle": "None",
                 "Symbol": "Circle"
@@ -114055,7 +114055,7 @@
               "X": "Lund (1982) - paroxetine hydrochloride, 45 mg, po, n=1 (EM), D, paroxetine|[h]",
               "Y": "Lund (1982) - paroxetine hydrochloride, 45 mg, po, n=1 (EM), D, paroxetine|ObservedData|Peripheral Venous Blood|Plasma|Paroxetine|[ng/mL]",
               "CurveOptions": {
-                "Color": "#0000FF",
+                "Color": "#FF0000",
                 "LegendIndex": 2,
                 "LineStyle": "None",
                 "Symbol": "Circle"
@@ -114311,7 +114311,7 @@
               "X": "Yoon (2000) - paroxetine hydrochloride, 40 mg, po, n=6 (AS=2), paroxetine|[h]",
               "Y": "Yoon (2000) - paroxetine hydrochloride, 40 mg, po, n=6 (AS=2), paroxetine|ObservedData|Peripheral Venous Blood|Plasma|Paroxetine|[ng/mL]",
               "CurveOptions": {
-                "Color": "#0000FF",
+                "Color": "#FF0000",
                 "LegendIndex": 2,
                 "LineStyle": "None",
                 "Symbol": "Circle"
@@ -114551,7 +114551,7 @@
               "X": "Yoon (2000) - paroxetine hydrochloride, 40 mg, po, n=1 (AS=0), paroxetine|[h]",
               "Y": "Yoon (2000) - paroxetine hydrochloride, 40 mg, po, n=1 (AS=0), paroxetine|ObservedData|Peripheral Venous Blood|Plasma|Paroxetine|[ng/mL]",
               "CurveOptions": {
-                "Color": "#0000FF",
+                "Color": "#FF0000",
                 "LegendIndex": 2,
                 "LineStyle": "None",
                 "Symbol": "Circle"
@@ -114791,7 +114791,7 @@
               "X": "Yoon (2000) - paroxetine hydrochloride, 40 mg, po, n=3 (AS=0.5), paroxetine|[h]",
               "Y": "Yoon (2000) - paroxetine hydrochloride, 40 mg, po, n=3 (AS=0.5), paroxetine|ObservedData|Peripheral Venous Blood|Plasma|Paroxetine|[ng/mL]",
               "CurveOptions": {
-                "Color": "#0000FF",
+                "Color": "#FF0000",
                 "LegendIndex": 2,
                 "LineStyle": "None",
                 "Symbol": "Circle"
@@ -115031,7 +115031,7 @@
               "X": "Yoon (2000) - paroxetine hydrochloride, 40 mg, po, n=6 (AS=1.25), paroxetine|[h]",
               "Y": "Yoon (2000) - paroxetine hydrochloride, 40 mg, po, n=6 (AS=1.25), paroxetine|ObservedData|Peripheral Venous Blood|Plasma|Paroxetine|[ng/mL]",
               "CurveOptions": {
-                "Color": "#0000FF",
+                "Color": "#FF0000",
                 "LegendIndex": 2,
                 "LineStyle": "None",
                 "Symbol": "Circle"
@@ -115281,7 +115281,7 @@
               "X": "Mürdter (2016) - paroxetine hydrochloride, 40 mg, po, md, n=1 (AS=0.75), paroxetine|[h]",
               "Y": "Mürdter (2016) - paroxetine hydrochloride, 40 mg, po, md, n=1 (AS=0.75), paroxetine|ObservedData|Peripheral Venous Blood|Plasma|Paroxetine|[ng/mL]",
               "CurveOptions": {
-                "Color": "#0000FF",
+                "Color": "#FF0000",
                 "LegendIndex": 2,
                 "LineStyle": "None",
                 "Symbol": "Circle"
@@ -115569,7 +115569,7 @@
               "X": "van der Lee (2007) - paroxetine hydrochloride, 20 mg, po, md, n=26 (EM), paroxetine|h",
               "Y": "van der Lee (2007) - paroxetine hydrochloride, 20 mg, po, md, n=26 (EM), paroxetine|ObservedData|Peripheral Venous Blood|Plasma|Paroxetine|ng/mL",
               "CurveOptions": {
-                "Color": "#0000FF",
+                "Color": "#FF0000",
                 "LegendIndex": 2,
                 "LineStyle": "None",
                 "Symbol": "Circle"

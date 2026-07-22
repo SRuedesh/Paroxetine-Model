@@ -6,7 +6,7 @@ The value for `Specific intestinal permeability` and the solubility at pH 4.5 ar
 
 ### 2.3.2 Distribution
 
-Paroxetine is highly bound to plasma proteins. A value of 4.87% was used in this PBPK model for `Fraction unbound (plasma, reference value)` as summarized in Section 2.2.1.
+Paroxetine is highly bound to plasma proteins. The literature starting value for `Fraction unbound (plasma, reference value)` was 5.00% [[9](#5-references)]. The value was optimized to 4.873% in the PBPK model. Table S2.1.1 in the supplement reports the 5.00% starting value.
 
 An important parameter influencing the resulting volume of distribution is lipophilicity. A `Lipophilicity` value of 3.95 was used in the model as summarized in Section 2.2.1.
 
@@ -18,7 +18,7 @@ Two metabolic pathways and one residual hepatic clearance process were implement
 
 * CYP2D6
 
-CYP2D6 metabolism is represented by Michaelis-Menten kinetics. CYP2D6 activity score-dependent k<sub>cat</sub> values are implemented as separate CYP2D6 processes. CYP2D6 k<sub>cat</sub> for AS=2 was optimized, AS=0 was set to zero, and intermediate or higher activity-score k<sub>cat</sub> values were calculated from the activity-score regression described by [Rüdesheim 2022](References.md).
+CYP2D6 metabolism is represented by Michaelis-Menten kinetics. CYP2D6 activity score-dependent k<sub>cat</sub> values are implemented as separate CYP2D6 processes. CYP2D6 k<sub>cat</sub> for AS=2 was optimized, AS=0 was set to zero, and intermediate or higher activity-score k<sub>cat</sub> values were calculated from the activity-score regression described by [Rüdesheim 2022](#5-references).
 
 * CYP3A4
 
@@ -26,6 +26,6 @@ CYP3A4 metabolism is represented by Michaelis-Menten kinetics using the K<sub>m<
 
 * Unspecific hepatic clearance
 
-The model contains unspecific hepatic clearance. The Unspecific CL<sub>hep</sub> value reported by [Rüdesheim 2022](References.md) in the publication and supplement is erroneous. The value implemented in the model is correct.
+The model contains unspecific hepatic clearance. The Unspecific CL<sub>hep</sub> value reported by [Rüdesheim 2022](#5-references) in the publication and supplement is erroneous. The value implemented in the model is correct.
 
 Additionally, renal filtration is represented with a `GFR fraction` of 1. Mechanism-based inhibition processes for CYP2D6 and CYP3A4 are included using the K<sub>i</sub> and k<sub>inact</sub> values summarized in Section 2.2.1.

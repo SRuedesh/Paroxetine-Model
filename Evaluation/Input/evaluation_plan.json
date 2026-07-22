@@ -239,7 +239,7 @@
     ],
     "GOFMergedPlots": [
       {
-        "Title": "Goodness of fit plot for paroxetine concentration in plasma.",
+        "Title": "Observed versus simulated concentration-time data for all modeled compounds",
         "SectionId": 32,
         "Artifacts": [
           "Plot",
@@ -252,7 +252,7 @@
         ],
         "Groups": [
           {
-            "Caption": "Paroxetine plasma concentration (model building)",
+            "Caption": "Paroxetine",
             "Symbol": "Circle",
             "OutputMappings": [
               {
@@ -260,251 +260,245 @@
                 "Simulation": "Sindrup (1992) - paroxetine hydrochloride, 30 mg, po, md, n=8 (PM)",
                 "Output": "Organism|PeripheralVenousBlood|Paroxetine|Plasma (Peripheral Venous Blood)",
                 "ObservedData": "Sindrup (1992) - paroxetine hydrochloride, 30 mg, po, md, n=8 (PM), paroxetine (last dose)",
-                "Color": "#0000FF"
+                "Color": "#FF0000"
               },
               {
                 "Project": "Paroxetine",
                 "Simulation": "Sindrup (1992) - paroxetine hydrochloride, 30 mg, po, md, n=8 (PM)",
                 "Output": "Organism|PeripheralVenousBlood|Paroxetine|Plasma (Peripheral Venous Blood)",
                 "ObservedData": "Sindrup (1992) - paroxetine hydrochloride, 30 mg, po, md, n=8 (PM), paroxetine (first dose)",
-                "Color": "#0000FF"
+                "Color": "#FF0000"
               },
               {
                 "Project": "Paroxetine",
                 "Simulation": "Sindrup (1992) - paroxetine hydrochloride, 30 mg, po, md, n=9 (EM)",
                 "Output": "Organism|PeripheralVenousBlood|Paroxetine|Plasma (Peripheral Venous Blood)",
                 "ObservedData": "Sindrup (1992) - paroxetine hydrochloride, 30 mg, po, md, n=9 (EM), paroxetine (last dose)",
-                "Color": "#0000FF"
+                "Color": "#FF0000"
               },
               {
                 "Project": "Paroxetine",
                 "Simulation": "Sindrup (1992) - paroxetine hydrochloride, 30 mg, po, md, n=9 (EM)",
                 "Output": "Organism|PeripheralVenousBlood|Paroxetine|Plasma (Peripheral Venous Blood)",
                 "ObservedData": "Sindrup (1992) - paroxetine hydrochloride, 30 mg, po, md, n=9 (EM), paroxetine (first dose)",
-                "Color": "#0000FF"
+                "Color": "#FF0000"
               },
               {
                 "Project": "Paroxetine",
                 "Simulation": "Massaroti (2005) - paroxetine hydrochloride, 20 mg, po, n=28 (EM)",
                 "Output": "Organism|PeripheralVenousBlood|Paroxetine|Plasma (Peripheral Venous Blood)",
                 "ObservedData": "Massaroti (2005) - paroxetine hydrochloride, 20 mg, po, n=28 (EM), paroxetine",
-                "Color": "#0000FF"
+                "Color": "#FF0000"
               },
               {
                 "Project": "Paroxetine",
                 "Simulation": "Belle (2002) - paroxetine hydrochloride, 20 mg, po, md, n=22 (EM)",
                 "Output": "Organism|PeripheralVenousBlood|Paroxetine|Plasma (Peripheral Venous Blood)",
                 "ObservedData": "Belle (2002) - paroxetine hydrochloride, 20 mg, po, md, n=22 (EM), paroxetine",
-                "Color": "#0000FF"
+                "Color": "#FF0000"
               },
               {
                 "Project": "Paroxetine",
                 "Simulation": "Mürdter (2016) - paroxetine hydrochloride, 40 mg, po, md, n=3 (AS=2)",
                 "Output": "Organism|PeripheralVenousBlood|Paroxetine|Plasma (Peripheral Venous Blood)",
                 "ObservedData": "Mürdter (2016) - paroxetine hydrochloride, 40 mg, po, md, n=3 (AS=2), paroxetine",
-                "Color": "#0000FF"
+                "Color": "#FF0000"
               },
               {
                 "Project": "Paroxetine",
                 "Simulation": "Lund (1982) - paroxetine hydrochloride, 23 mg, iv, n=1 (EM), D",
                 "Output": "Organism|PeripheralVenousBlood|Paroxetine|Plasma (Peripheral Venous Blood)",
                 "ObservedData": "Lund (1982) - paroxetine hydrochloride, 23 mg, iv, n=1 (EM), D, paroxetine",
-                "Color": "#0000FF"
+                "Color": "#FF0000"
               },
               {
                 "Project": "Paroxetine",
                 "Simulation": "Lund (1982) - paroxetine hydrochloride, 28 mg, iv, n=1 (EM), A",
                 "Output": "Organism|PeripheralVenousBlood|Paroxetine|Plasma (Peripheral Venous Blood)",
                 "ObservedData": "Lund (1982) - paroxetine hydrochloride, 28 mg, iv, n=1 (EM), A, paroxetine",
-                "Color": "#0000FF"
+                "Color": "#FF0000"
               },
               {
                 "Project": "Paroxetine",
                 "Simulation": "Lund (1982) - paroxetine hydrochloride, 28 mg, iv, n=1 (EM), B",
                 "Output": "Organism|PeripheralVenousBlood|Paroxetine|Plasma (Peripheral Venous Blood)",
                 "ObservedData": "Lund (1982) - paroxetine hydrochloride, 28 mg, iv, n=1 (EM), B, paroxetine",
-                "Color": "#0000FF"
+                "Color": "#FF0000"
               },
               {
                 "Project": "Paroxetine",
                 "Simulation": "Lund (1982) - paroxetine hydrochloride, 28 mg, iv, n=1 (EM), C",
                 "Output": "Organism|PeripheralVenousBlood|Paroxetine|Plasma (Peripheral Venous Blood)",
                 "ObservedData": "Lund (1982) - paroxetine hydrochloride, 28 mg, iv, n=1 (EM), C, paroxetine",
-                "Color": "#0000FF"
+                "Color": "#FF0000"
               },
               {
                 "Project": "Paroxetine",
                 "Simulation": "Lund (1982) - paroxetine hydrochloride, 45 mg, po, n=1 (EM), A",
                 "Output": "Organism|PeripheralVenousBlood|Paroxetine|Plasma (Peripheral Venous Blood)",
                 "ObservedData": "Lund (1982) - paroxetine hydrochloride, 45 mg, po, n=1 (EM), A, paroxetine",
-                "Color": "#0000FF"
+                "Color": "#FF0000"
               },
               {
                 "Project": "Paroxetine",
                 "Simulation": "Lund (1982) - paroxetine hydrochloride, 45 mg, po, n=1 (EM), B",
                 "Output": "Organism|PeripheralVenousBlood|Paroxetine|Plasma (Peripheral Venous Blood)",
                 "ObservedData": "Lund (1982) - paroxetine hydrochloride, 45 mg, po, n=1 (EM), B, paroxetine",
-                "Color": "#0000FF"
+                "Color": "#FF0000"
               },
               {
                 "Project": "Paroxetine",
                 "Simulation": "Lund (1982) - paroxetine hydrochloride, 45 mg, po, n=1 (EM), C",
                 "Output": "Organism|PeripheralVenousBlood|Paroxetine|Plasma (Peripheral Venous Blood)",
                 "ObservedData": "Lund (1982) - paroxetine hydrochloride, 45 mg, po, n=1 (EM), C, paroxetine",
-                "Color": "#0000FF"
+                "Color": "#FF0000"
               },
               {
                 "Project": "Paroxetine",
                 "Simulation": "Lund (1982) - paroxetine hydrochloride, 45 mg, po, n=1 (EM), D",
                 "Output": "Organism|PeripheralVenousBlood|Paroxetine|Plasma (Peripheral Venous Blood)",
                 "ObservedData": "Lund (1982) - paroxetine hydrochloride, 45 mg, po, n=1 (EM), D, paroxetine",
-                "Color": "#0000FF"
+                "Color": "#FF0000"
               },
               {
                 "Project": "Paroxetine",
                 "Simulation": "Yoon (2000) - paroxetine hydrochloride, 40 mg, po, n=6 (AS=2)",
                 "Output": "Organism|PeripheralVenousBlood|Paroxetine|Plasma (Peripheral Venous Blood)",
                 "ObservedData": "Yoon (2000) - paroxetine hydrochloride, 40 mg, po, n=6 (AS=2), paroxetine",
-                "Color": "#0000FF"
-              }
-            ]
-          },
-          {
-            "Caption": "Paroxetine plasma concentration (model verification)",
-            "Symbol": "Triangle",
-            "OutputMappings": [
+                "Color": "#FF0000"
+              },
               {
                 "Project": "Paroxetine",
                 "Simulation": "Segura (2005) - paroxetine hydrochloride, 20 mg, po, md, n=7 (EM)",
                 "Output": "Organism|PeripheralVenousBlood|Paroxetine|Plasma (Peripheral Venous Blood)",
                 "ObservedData": "Segura (2005) - paroxetine hydrochloride, 20 mg, po, md, n=7 (EM), paroxetine",
-                "Color": "#0000FF"
+                "Color": "#FF0000"
               },
               {
                 "Project": "Paroxetine",
                 "Simulation": "Calvo (2004) - paroxetine hydrochloride, 20 mg, po, md, n=25 (EM)",
                 "Output": "Organism|PeripheralVenousBlood|Paroxetine|Plasma (Peripheral Venous Blood)",
                 "ObservedData": "Calvo (2004) - paroxetine hydrochloride, 20 mg, po, md, n=25 (EM), paroxetine",
-                "Color": "#0000FF"
+                "Color": "#FF0000"
               },
               {
                 "Project": "Paroxetine",
                 "Simulation": "McClelland (1984) - paroxetine hydrochloride, 70 mg, po, n=5 (EM)",
                 "Output": "Organism|PeripheralVenousBlood|Paroxetine|Plasma (Peripheral Venous Blood)",
                 "ObservedData": "McClelland (1984) - paroxetine hydrochloride, 70 mg, po, n=5 (EM), paroxetine",
-                "Color": "#0000FF"
+                "Color": "#FF0000"
               },
               {
                 "Project": "Paroxetine",
                 "Simulation": "Schoedel (2012) - paroxetine hydrochloride, 20 mg, po, md, n=14 (EM)",
                 "Output": "Organism|PeripheralVenousBlood|Paroxetine|Plasma (Peripheral Venous Blood)",
                 "ObservedData": "Schoedel (2012) - paroxetine hydrochloride, 20 mg, po, md, n=14 (EM), paroxetine",
-                "Color": "#0000FF"
+                "Color": "#FF0000"
               },
               {
                 "Project": "Paroxetine",
                 "Simulation": "Yasui-Furukori (2007) - paroxetine hydrochloride, 20 mg, po, n=12 (AS=1.25)",
                 "Output": "Organism|PeripheralVenousBlood|Paroxetine|Plasma (Peripheral Venous Blood)",
                 "ObservedData": "Yasui-Furukori (2007) - paroxetine hydrochloride, 20 mg, po, n=12 (AS=1.25), paroxetine",
-                "Color": "#0000FF"
+                "Color": "#FF0000"
               },
               {
                 "Project": "Paroxetine",
                 "Simulation": "Yasui-Furukori (2007) - paroxetine hydrochloride, 20 mg, po, n=13 (EM)",
                 "Output": "Organism|PeripheralVenousBlood|Paroxetine|Plasma (Peripheral Venous Blood)",
                 "ObservedData": "Yasui-Furukori (2007) - paroxetine hydrochloride, 20 mg, po, n=13 (EM), paroxetine",
-                "Color": "#0000FF"
+                "Color": "#FF0000"
               },
               {
                 "Project": "Paroxetine",
                 "Simulation": "Chen (2015) - paroxetine hydrochloride, 25 mg, po, n=4 (AS=0.5)",
                 "Output": "Organism|PeripheralVenousBlood|Paroxetine|Plasma (Peripheral Venous Blood)",
                 "ObservedData": "Chen (2015) - paroxetine hydrochloride, 25 mg, po, n=4 (AS=0.5), paroxetine",
-                "Color": "#0000FF"
+                "Color": "#FF0000"
               },
               {
                 "Project": "Paroxetine",
                 "Simulation": "Chen (2015) - paroxetine hydrochloride, 25 mg, po, n=4 (AS=2)",
                 "Output": "Organism|PeripheralVenousBlood|Paroxetine|Plasma (Peripheral Venous Blood)",
                 "ObservedData": "Chen (2015) - paroxetine hydrochloride, 25 mg, po, n=4 (AS=2), paroxetine",
-                "Color": "#0000FF"
+                "Color": "#FF0000"
               },
               {
                 "Project": "Paroxetine",
                 "Simulation": "Chen (2015) - paroxetine hydrochloride, 25 mg, po, n=5 (AS=1.5)",
                 "Output": "Organism|PeripheralVenousBlood|Paroxetine|Plasma (Peripheral Venous Blood)",
                 "ObservedData": "Chen (2015) - paroxetine hydrochloride, 25 mg, po, n=5 (AS=1.5), paroxetine",
-                "Color": "#0000FF"
+                "Color": "#FF0000"
               },
               {
                 "Project": "Paroxetine",
                 "Simulation": "Chen (2015) - paroxetine hydrochloride, 25 mg, po, n=11 (AS=1)",
                 "Output": "Organism|PeripheralVenousBlood|Paroxetine|Plasma (Peripheral Venous Blood)",
                 "ObservedData": "Chen (2015) - paroxetine hydrochloride, 25 mg, po, n=11 (AS=1), paroxetine",
-                "Color": "#0000FF"
+                "Color": "#FF0000"
               },
               {
                 "Project": "Paroxetine",
                 "Simulation": "Mürdter (2016) - paroxetine hydrochloride, 40 mg, po, md, n=3 (AS=3)",
                 "Output": "Organism|PeripheralVenousBlood|Paroxetine|Plasma (Peripheral Venous Blood)",
                 "ObservedData": "Mürdter (2016) - paroxetine hydrochloride, 40 mg, po, md, n=3 (AS=3), paroxetine",
-                "Color": "#0000FF"
+                "Color": "#FF0000"
               },
               {
                 "Project": "Paroxetine",
                 "Simulation": "Mürdter (2016) - paroxetine hydrochloride, 40 mg, po, md, n=3 (AS=0)",
                 "Output": "Organism|PeripheralVenousBlood|Paroxetine|Plasma (Peripheral Venous Blood)",
                 "ObservedData": "Mürdter (2016) - paroxetine hydrochloride, 40 mg, po, md, n=3 (AS=0), paroxetine",
-                "Color": "#0000FF"
+                "Color": "#FF0000"
               },
               {
                 "Project": "Paroxetine",
                 "Simulation": "Mürdter (2016) - paroxetine hydrochloride, 40 mg, po, md, n=2 (AS=1)",
                 "Output": "Organism|PeripheralVenousBlood|Paroxetine|Plasma (Peripheral Venous Blood)",
                 "ObservedData": "Mürdter (2016) - paroxetine hydrochloride, 40 mg, po, md, n=2 (AS=1), paroxetine",
-                "Color": "#0000FF"
+                "Color": "#FF0000"
               },
               {
                 "Project": "Paroxetine",
                 "Simulation": "Mürdter (2016) - paroxetine hydrochloride, 40 mg, po, md, n=4 (AS=0.5)",
                 "Output": "Organism|PeripheralVenousBlood|Paroxetine|Plasma (Peripheral Venous Blood)",
                 "ObservedData": "Mürdter (2016) - paroxetine hydrochloride, 40 mg, po, md, n=4 (AS=0.5), paroxetine",
-                "Color": "#0000FF"
+                "Color": "#FF0000"
               },
               {
                 "Project": "Paroxetine",
                 "Simulation": "Yoon (2000) - paroxetine hydrochloride, 40 mg, po, n=1 (AS=0)",
                 "Output": "Organism|PeripheralVenousBlood|Paroxetine|Plasma (Peripheral Venous Blood)",
                 "ObservedData": "Yoon (2000) - paroxetine hydrochloride, 40 mg, po, n=1 (AS=0), paroxetine",
-                "Color": "#0000FF"
+                "Color": "#FF0000"
               },
               {
                 "Project": "Paroxetine",
                 "Simulation": "Yoon (2000) - paroxetine hydrochloride, 40 mg, po, n=3 (AS=0.5)",
                 "Output": "Organism|PeripheralVenousBlood|Paroxetine|Plasma (Peripheral Venous Blood)",
                 "ObservedData": "Yoon (2000) - paroxetine hydrochloride, 40 mg, po, n=3 (AS=0.5), paroxetine",
-                "Color": "#0000FF"
+                "Color": "#FF0000"
               },
               {
                 "Project": "Paroxetine",
                 "Simulation": "Yoon (2000) - paroxetine hydrochloride, 40 mg, po, n=6 (AS=1.25)",
                 "Output": "Organism|PeripheralVenousBlood|Paroxetine|Plasma (Peripheral Venous Blood)",
                 "ObservedData": "Yoon (2000) - paroxetine hydrochloride, 40 mg, po, n=6 (AS=1.25), paroxetine",
-                "Color": "#0000FF"
+                "Color": "#FF0000"
               },
               {
                 "Project": "Paroxetine",
                 "Simulation": "Mürdter (2016) - paroxetine hydrochloride, 40 mg, po, md, n=1 (AS=0.75)",
                 "Output": "Organism|PeripheralVenousBlood|Paroxetine|Plasma (Peripheral Venous Blood)",
                 "ObservedData": "Mürdter (2016) - paroxetine hydrochloride, 40 mg, po, md, n=1 (AS=0.75), paroxetine",
-                "Color": "#0000FF"
+                "Color": "#FF0000"
               },
               {
                 "Project": "Paroxetine",
                 "Simulation": "van der Lee (2007) - paroxetine hydrochloride, 20 mg, po, md, n=26 (EM)",
                 "Output": "Organism|PeripheralVenousBlood|Paroxetine|Plasma (Peripheral Venous Blood)",
                 "ObservedData": "van der Lee (2007) - paroxetine hydrochloride, 20 mg, po, md, n=26 (EM), paroxetine",
-                "Color": "#0000FF"
+                "Color": "#FF0000"
               }
             ]
           }

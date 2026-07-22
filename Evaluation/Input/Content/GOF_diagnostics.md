@@ -1,3 +1,1 @@
-Below you find the goodness-of-fit visual diagnostic plots for the PBPK model performance of all data used presented in [Section 2.2.2](Section2.2_Data.md).
-
-The first plot shows observed versus simulated plasma concentration, the second weighted residuals versus time.
+The goodness-of-fit diagnostics combine all modeled compounds in one set of plots. Colors and symbols identify compounds consistently with the concentration-time profiles. Administration route, formulation, and model-building or verification status are not used to split the diagnostics.
