@@ -5,7 +5,7 @@ The table below summarizes the drug-dependent inputs documented for the paroxeti
 | Parameter | Unit | Value | Source | Description |
 | --- | ---: | ---: | --- | --- |
 | MW | g/mol | 329.37 | [Zhong 2013](#5) | Molecular weight. |
-| pK<sub>a</sub> | - | 9.9<sup>a</sup> | [Agrawal 2013](#5) | Acid dissociation constant. |
+| pK<sub>a</sub>,base | - | 9.9 | [Agrawal 2013](#5) | pKa of a basic ionization site. |
 | Solubility | mg/mL | 7.31 | [Khatavkar 2016](#5) | Aqueous solubility at pH 4.5. |
 | logP | - | 3.95 | [Agrawal 2013](#5) | Octanol-water partition coefficient of the neutral species. |
 | f<sub>u</sub> | % | 4.873 | Optimized; [Kaye 1989](#5) | Fraction unbound in plasma. |
@@ -22,13 +22,11 @@ The table below summarizes the drug-dependent inputs documented for the paroxeti
 | GFR fraction | - | 1 | Assumed | Fraction used to scale passive glomerular filtration. |
 | Weibull shape | - | 7.17 | Optimized | Shape parameter for controlled-release dissolution. |
 | t<sub>50</sub> | min | 276.35 | Optimized; [Chen 2015](#5); [Khatavkar 2013](#5) | Time to dissolve 50% of the controlled-release dose. |
-| Partition coefficients | - | Diverse | Calculated; [Rodgers 2007](#5) | Tissue-to-plasma partition coefficients calculated with the Rodgers and Rowland method. |
+| Partition coefficients | - | Rodgers and Rowland | Calculated; [Rodgers 2007](#5) | Tissue-to-plasma partition coefficients calculated with the Rodgers and Rowland method. |
 | Cellular permeabilities | - | PK-Sim Standard | Calculated | Cellular permeabilities calculated with the PK-Sim Standard method. |
 | P<sub>int</sub> | cm/min | 3.93 × 10<sup>−5</sup> | Optimized | Specific transcellular intestinal permeability. |
 
 **Table 1:**<a name="table-1"></a> Drug-dependent physicochemical, distribution, metabolism, elimination, inhibition, and formulation parameters used in the final paroxetine model.
-
-<sup>a</sup> Basic.
 
 <sup>c</sup> The optimized snapshot value is retained. The supplement to [Rüdesheim 2022](#5) reports 1.37 1/min.
 
