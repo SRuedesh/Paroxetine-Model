@@ -65006,7 +65006,7 @@
       "Type": "Enzyme",
       "Species": "Human",
       "Molecule": "CYP3A4",
-      "Category": "Yasui-Furukori (2007), n=12 (AS=1.25)",
+      "Category": "Yasui-Furukori (2006), n=12 (AS=1.25)",
       "Parameters": [
         {
           "Path": "CYP3A4|Reference concentration",
@@ -65081,7 +65081,7 @@
       "Type": "Enzyme",
       "Species": "Human",
       "Molecule": "AADAC",
-      "Category": "Yasui-Furukori (2007), n=12 (AS=1.25)",
+      "Category": "Yasui-Furukori (2006), n=12 (AS=1.25)",
       "Parameters": [
         {
           "Path": "AADAC|Reference concentration",
@@ -65205,7 +65205,7 @@
       "Type": "Enzyme",
       "Species": "Human",
       "Molecule": "CYP2D6",
-      "Category": "Yasui-Furukori (2007), n=12 (AS=1.25)",
+      "Category": "Yasui-Furukori (2006), n=12 (AS=1.25)",
       "Parameters": [
         {
           "Path": "CYP2D6|Reference concentration",
@@ -65280,7 +65280,7 @@
       "Type": "Enzyme",
       "Species": "Human",
       "Molecule": "MAOA",
-      "Category": "Yasui-Furukori (2007), n=12 (AS=1.25)",
+      "Category": "Yasui-Furukori (2006), n=12 (AS=1.25)",
       "Parameters": [
         {
           "Path": "MAOA|Reference concentration",
@@ -65404,7 +65404,7 @@
       "Type": "Transporter",
       "Species": "Human",
       "Molecule": "ABCB1",
-      "Category": "Yasui-Furukori (2007), n=12 (AS=1.25)",
+      "Category": "Yasui-Furukori (2006), n=12 (AS=1.25)",
       "Parameters": [
         {
           "Path": "ABCB1|Reference concentration",
@@ -65740,7 +65740,7 @@
       "Type": "Transporter",
       "Species": "Human",
       "Molecule": "OATP1B1",
-      "Category": "Yasui-Furukori (2007), n=12 (AS=1.25)",
+      "Category": "Yasui-Furukori (2006), n=12 (AS=1.25)",
       "Parameters": [
         {
           "Path": "OATP1B1|Reference concentration",
@@ -66012,7 +66012,7 @@
       "Type": "OtherProtein",
       "Species": "Human",
       "Molecule": "ATP1A2",
-      "Category": "Yasui-Furukori (2007), n=12 (AS=1.25)",
+      "Category": "Yasui-Furukori (2006), n=12 (AS=1.25)",
       "Parameters": [
         {
           "Path": "ATP1A2|Reference concentration",
@@ -66132,7 +66132,7 @@
       "Type": "Transporter",
       "Species": "Human",
       "Molecule": "OCT2",
-      "Category": "Yasui-Furukori (2007), n=12 (AS=1.25)",
+      "Category": "Yasui-Furukori (2006), n=12 (AS=1.25)",
       "Parameters": [
         {
           "Path": "OCT2|Reference concentration",
@@ -66420,7 +66420,7 @@
       "Type": "Transporter",
       "Species": "Human",
       "Molecule": "MATE2-K",
-      "Category": "Yasui-Furukori (2007), n=12 (AS=1.25)",
+      "Category": "Yasui-Furukori (2006), n=12 (AS=1.25)",
       "Parameters": [
         {
           "Path": "MATE2-K|Reference concentration",
@@ -66668,7 +66668,7 @@
       "Type": "Enzyme",
       "Species": "Human",
       "Molecule": "PON3",
-      "Category": "Yasui-Furukori (2007), n=12 (AS=1.25)",
+      "Category": "Yasui-Furukori (2006), n=12 (AS=1.25)",
       "Parameters": [
         {
           "Path": "Organism|Bone|Intracellular|PON3|Relative expression",
@@ -66788,7 +66788,7 @@
       "Type": "Enzyme",
       "Species": "Human",
       "Molecule": "CYP2C8",
-      "Category": "Yasui-Furukori (2007), n=12 (AS=1.25)",
+      "Category": "Yasui-Furukori (2006), n=12 (AS=1.25)",
       "Parameters": [
         {
           "Path": "CYP2C8|Reference concentration",
@@ -66863,7 +66863,7 @@
       "Type": "Enzyme",
       "Species": "Human",
       "Molecule": "UGT2B7",
-      "Category": "Yasui-Furukori (2007), n=12 (AS=1.25)",
+      "Category": "Yasui-Furukori (2006), n=12 (AS=1.25)",
       "Parameters": [
         {
           "Path": "Organism|Brain|Intracellular|UGT2B7|Relative expression",
@@ -66942,7 +66942,7 @@
       "Type": "Transporter",
       "Species": "Human",
       "Molecule": "ABCC3",
-      "Category": "Yasui-Furukori (2007), n=12 (AS=1.25)",
+      "Category": "Yasui-Furukori (2006), n=12 (AS=1.25)",
       "Parameters": [
         {
           "Path": "ABCC3|Reference concentration",
@@ -67278,7 +67278,7 @@
       "Type": "Enzyme",
       "Species": "Human",
       "Molecule": "DPYS",
-      "Category": "Yasui-Furukori (2007), n=12 (AS=1.25)",
+      "Category": "Yasui-Furukori (2006), n=12 (AS=1.25)",
       "Parameters": [
         {
           "Path": "DPYS|Reference concentration",
@@ -67398,7 +67398,7 @@
       "Type": "Enzyme",
       "Species": "Human",
       "Molecule": "UPB1",
-      "Category": "Yasui-Furukori (2007), n=12 (AS=1.25)",
+      "Category": "Yasui-Furukori (2006), n=12 (AS=1.25)",
       "Parameters": [
         {
           "Path": "Organism|Bone|Intracellular|UPB1|Relative expression",
@@ -67518,7 +67518,7 @@
       "Type": "Enzyme",
       "Species": "Human",
       "Molecule": "DPYD",
-      "Category": "Yasui-Furukori (2007), n=12 (AS=1.25)",
+      "Category": "Yasui-Furukori (2006), n=12 (AS=1.25)",
       "Parameters": [
         {
           "Path": "DPYD|Reference concentration",
@@ -67642,7 +67642,7 @@
       "Type": "Transporter",
       "Species": "Human",
       "Molecule": "ABCC4",
-      "Category": "Yasui-Furukori (2007), n=12 (AS=1.25)",
+      "Category": "Yasui-Furukori (2006), n=12 (AS=1.25)",
       "Parameters": [
         {
           "Path": "ABCC4|Reference concentration",
@@ -67978,7 +67978,7 @@
       "Type": "Transporter",
       "Species": "Human",
       "Molecule": "SLC22A7",
-      "Category": "Yasui-Furukori (2007), n=12 (AS=1.25)",
+      "Category": "Yasui-Furukori (2006), n=12 (AS=1.25)",
       "Parameters": [
         {
           "Path": "Organism|Bone|Intracellular|SLC22A7|Relative expression",
@@ -68314,7 +68314,7 @@
       "Type": "Transporter",
       "Species": "Human",
       "Molecule": "Liver_influx_gemfibrozil",
-      "Category": "Yasui-Furukori (2007), n=12 (AS=1.25)",
+      "Category": "Yasui-Furukori (2006), n=12 (AS=1.25)",
       "Parameters": [
         {
           "Path": "Liver_influx_gemfibrozil|Reference concentration",
@@ -68566,7 +68566,7 @@
       "Type": "Enzyme",
       "Species": "Human",
       "Molecule": "CYP1A2",
-      "Category": "Yasui-Furukori (2007), n=12 (AS=1.25)",
+      "Category": "Yasui-Furukori (2006), n=12 (AS=1.25)",
       "Parameters": [
         {
           "Path": "CYP1A2|Reference concentration",
@@ -105621,7 +105621,7 @@
       ]
     },
     {
-      "Name": "Yasui-Furukori (2007), n=12 (AS=1.25)",
+      "Name": "Yasui-Furukori (2006), n=12 (AS=1.25)",
       "Seed": 526855375,
       "OriginData": {
         "CalculationMethods": [
@@ -105647,26 +105647,26 @@
         }
       ],
       "ExpressionProfiles": [
-        "CYP3A4|Human|Yasui-Furukori (2007), n=12 (AS=1.25)",
-        "AADAC|Human|Yasui-Furukori (2007), n=12 (AS=1.25)",
-        "CYP2D6|Human|Yasui-Furukori (2007), n=12 (AS=1.25)",
-        "MAOA|Human|Yasui-Furukori (2007), n=12 (AS=1.25)",
-        "ABCB1|Human|Yasui-Furukori (2007), n=12 (AS=1.25)",
-        "OATP1B1|Human|Yasui-Furukori (2007), n=12 (AS=1.25)",
-        "ATP1A2|Human|Yasui-Furukori (2007), n=12 (AS=1.25)",
-        "OCT2|Human|Yasui-Furukori (2007), n=12 (AS=1.25)",
-        "MATE2-K|Human|Yasui-Furukori (2007), n=12 (AS=1.25)",
-        "PON3|Human|Yasui-Furukori (2007), n=12 (AS=1.25)",
-        "CYP2C8|Human|Yasui-Furukori (2007), n=12 (AS=1.25)",
-        "UGT2B7|Human|Yasui-Furukori (2007), n=12 (AS=1.25)",
-        "ABCC3|Human|Yasui-Furukori (2007), n=12 (AS=1.25)",
-        "DPYS|Human|Yasui-Furukori (2007), n=12 (AS=1.25)",
-        "UPB1|Human|Yasui-Furukori (2007), n=12 (AS=1.25)",
-        "DPYD|Human|Yasui-Furukori (2007), n=12 (AS=1.25)",
-        "ABCC4|Human|Yasui-Furukori (2007), n=12 (AS=1.25)",
-        "SLC22A7|Human|Yasui-Furukori (2007), n=12 (AS=1.25)",
-        "Liver_influx_gemfibrozil|Human|Yasui-Furukori (2007), n=12 (AS=1.25)",
-        "CYP1A2|Human|Yasui-Furukori (2007), n=12 (AS=1.25)"
+        "CYP3A4|Human|Yasui-Furukori (2006), n=12 (AS=1.25)",
+        "AADAC|Human|Yasui-Furukori (2006), n=12 (AS=1.25)",
+        "CYP2D6|Human|Yasui-Furukori (2006), n=12 (AS=1.25)",
+        "MAOA|Human|Yasui-Furukori (2006), n=12 (AS=1.25)",
+        "ABCB1|Human|Yasui-Furukori (2006), n=12 (AS=1.25)",
+        "OATP1B1|Human|Yasui-Furukori (2006), n=12 (AS=1.25)",
+        "ATP1A2|Human|Yasui-Furukori (2006), n=12 (AS=1.25)",
+        "OCT2|Human|Yasui-Furukori (2006), n=12 (AS=1.25)",
+        "MATE2-K|Human|Yasui-Furukori (2006), n=12 (AS=1.25)",
+        "PON3|Human|Yasui-Furukori (2006), n=12 (AS=1.25)",
+        "CYP2C8|Human|Yasui-Furukori (2006), n=12 (AS=1.25)",
+        "UGT2B7|Human|Yasui-Furukori (2006), n=12 (AS=1.25)",
+        "ABCC3|Human|Yasui-Furukori (2006), n=12 (AS=1.25)",
+        "DPYS|Human|Yasui-Furukori (2006), n=12 (AS=1.25)",
+        "UPB1|Human|Yasui-Furukori (2006), n=12 (AS=1.25)",
+        "DPYD|Human|Yasui-Furukori (2006), n=12 (AS=1.25)",
+        "ABCC4|Human|Yasui-Furukori (2006), n=12 (AS=1.25)",
+        "SLC22A7|Human|Yasui-Furukori (2006), n=12 (AS=1.25)",
+        "Liver_influx_gemfibrozil|Human|Yasui-Furukori (2006), n=12 (AS=1.25)",
+        "CYP1A2|Human|Yasui-Furukori (2006), n=12 (AS=1.25)"
       ]
     },
     {
@@ -107433,7 +107433,7 @@
               }
             }
           ],
-          "Name": "Time Profile Analysis",
+          "Name": "Sindrup 1992: paroxetine hydrochloride, 30 mg, po, md, n=8 (PM)",
           "FontAndSize": {
             "Fonts": {
               "AxisSize": 10,
@@ -107769,7 +107769,7 @@
               }
             }
           ],
-          "Name": "Time Profile Analysis",
+          "Name": "Sindrup 1992: paroxetine hydrochloride, 30 mg, po, md, n=9 (EM)",
           "FontAndSize": {
             "Fonts": {
               "AxisSize": 10,
@@ -108012,7 +108012,7 @@
               }
             }
           ],
-          "Name": "Time Profile Analysis",
+          "Name": "Massaroti 2005: paroxetine hydrochloride, 20 mg, po, n=28 (EM)",
           "FontAndSize": {
             "Fonts": {
               "AxisSize": 10,
@@ -108276,7 +108276,7 @@
               }
             }
           ],
-          "Name": "Time Profile Analysis",
+          "Name": "Segura 2005: paroxetine hydrochloride, 20 mg, po, md, n=7 (EM)",
           "FontAndSize": {
             "Fonts": {
               "AxisSize": 10,
@@ -108586,7 +108586,7 @@
               }
             }
           ],
-          "Name": "Time Profile Analysis",
+          "Name": "Calvo 2004: paroxetine hydrochloride, 20 mg, po, md, n=25 (EM)",
           "FontAndSize": {
             "Fonts": {
               "AxisSize": 10,
@@ -108887,7 +108887,7 @@
               }
             }
           ],
-          "Name": "Time Profile Analysis",
+          "Name": "Belle 2002: paroxetine hydrochloride, 20 mg, po, md, n=22 (EM)",
           "FontAndSize": {
             "Fonts": {
               "AxisSize": 10,
@@ -109129,7 +109129,7 @@
               }
             }
           ],
-          "Name": "Time Profile Analysis",
+          "Name": "McClelland 1984: paroxetine hydrochloride, 70 mg, po, n=5 (EM)",
           "FontAndSize": {
             "Fonts": {
               "AxisSize": 10,
@@ -109427,7 +109427,7 @@
               }
             }
           ],
-          "Name": "Time Profile Analysis",
+          "Name": "Schoedel 2012: paroxetine hydrochloride, 20 mg, po, md, n=14 (EM)",
           "FontAndSize": {
             "Fonts": {
               "AxisSize": 10,
@@ -109462,10 +109462,10 @@
       ]
     },
     {
-      "Name": "Yasui-Furukori (2007) - paroxetine hydrochloride, 20 mg, po, n=12 (AS=1.25)",
+      "Name": "Yasui-Furukori (2006) - paroxetine hydrochloride, 20 mg, po, n=12 (AS=1.25)",
       "Model": "4Comp",
       "ObservedData": [
-        "Yasui-Furukori (2007) - paroxetine hydrochloride, 20 mg, po, n=12 (AS=1.25), paroxetine"
+        "Yasui-Furukori (2006) - paroxetine hydrochloride, 20 mg, po, n=12 (AS=1.25), paroxetine"
       ],
       "Solver": {
         "AbsTol": 1e-14,
@@ -109523,7 +109523,7 @@
       "OutputSelections": [
         "Organism|PeripheralVenousBlood|Paroxetine|Plasma (Peripheral Venous Blood)"
       ],
-      "Individual": "Yasui-Furukori (2007), n=12 (AS=1.25)",
+      "Individual": "Yasui-Furukori (2006), n=12 (AS=1.25)",
       "Compounds": [
         {
           "Name": "Paroxetine",
@@ -109650,18 +109650,18 @@
           ],
           "Curves": [
             {
-              "Name": "Yasui-Furukori (2007) - paroxetine hydrochloride, 20 mg, po, n=12 (AS=1.25)-Organism-PeripheralVenousBlood-Paroxetine-Plasma (Peripheral Venous Blood)",
+              "Name": "Yasui-Furukori (2006) - paroxetine hydrochloride, 20 mg, po, n=12 (AS=1.25)-Organism-PeripheralVenousBlood-Paroxetine-Plasma (Peripheral Venous Blood)",
               "X": "Time",
-              "Y": "Yasui-Furukori (2007) - paroxetine hydrochloride, 20 mg, po, n=12 (AS=1.25)|Organism|PeripheralVenousBlood|Paroxetine|Plasma (Peripheral Venous Blood)",
+              "Y": "Yasui-Furukori (2006) - paroxetine hydrochloride, 20 mg, po, n=12 (AS=1.25)|Organism|PeripheralVenousBlood|Paroxetine|Plasma (Peripheral Venous Blood)",
               "CurveOptions": {
                 "Color": "#FF0000",
                 "LegendIndex": 1
               }
             },
             {
-              "Name": "Yasui-Furukori (2007) - paroxetine hydrochloride, 20 mg, po, n=12 (AS=1.25), paroxetine-Paroxetine-ng/mL",
-              "X": "Yasui-Furukori (2007) - paroxetine hydrochloride, 20 mg, po, n=12 (AS=1.25), paroxetine|h",
-              "Y": "Yasui-Furukori (2007) - paroxetine hydrochloride, 20 mg, po, n=12 (AS=1.25), paroxetine|ObservedData|Peripheral Venous Blood|Plasma|Paroxetine|ng/mL",
+              "Name": "Yasui-Furukori (2006) - paroxetine hydrochloride, 20 mg, po, n=12 (AS=1.25), paroxetine-Paroxetine-ng/mL",
+              "X": "Yasui-Furukori (2006) - paroxetine hydrochloride, 20 mg, po, n=12 (AS=1.25), paroxetine|h",
+              "Y": "Yasui-Furukori (2006) - paroxetine hydrochloride, 20 mg, po, n=12 (AS=1.25), paroxetine|ObservedData|Peripheral Venous Blood|Plasma|Paroxetine|ng/mL",
               "CurveOptions": {
                 "Color": "#FF0000",
                 "LegendIndex": 3,
@@ -109670,7 +109670,7 @@
               }
             }
           ],
-          "Name": "Time Profile Analysis",
+          "Name": "Yasui-Furukori 2006: paroxetine hydrochloride, 20 mg, po, n=12 (AS=1.25)",
           "FontAndSize": {
             "Fonts": {
               "AxisSize": 10,
@@ -109913,7 +109913,7 @@
               }
             }
           ],
-          "Name": "Time Profile Analysis",
+          "Name": "Yasui-Furukori 2007: paroxetine hydrochloride, 20 mg, po, n=13 (EM)",
           "FontAndSize": {
             "Fonts": {
               "AxisSize": 10,
@@ -110178,7 +110178,7 @@
               }
             }
           ],
-          "Name": "Time Profile Analysis",
+          "Name": "Chen 2015: paroxetine hydrochloride, 25 mg, po, n=4 (AS=0.5)",
           "FontAndSize": {
             "Fonts": {
               "AxisSize": 10,
@@ -110421,7 +110421,7 @@
               }
             }
           ],
-          "Name": "Time Profile Analysis",
+          "Name": "Chen 2015: paroxetine hydrochloride, 25 mg, po, n=4 (AS=2)",
           "FontAndSize": {
             "Fonts": {
               "AxisSize": 10,
@@ -110664,7 +110664,7 @@
               }
             }
           ],
-          "Name": "Time Profile Analysis",
+          "Name": "Chen 2015: paroxetine hydrochloride, 25 mg, po, n=5 (AS=1.5)",
           "FontAndSize": {
             "Fonts": {
               "AxisSize": 10,
@@ -110929,7 +110929,7 @@
               }
             }
           ],
-          "Name": "Time Profile Analysis",
+          "Name": "Chen 2015: paroxetine hydrochloride, 25 mg, po, n=11 (AS=1)",
           "FontAndSize": {
             "Fonts": {
               "AxisSize": 10,
@@ -111179,7 +111179,7 @@
               }
             }
           ],
-          "Name": "Time Profile Analysis",
+          "Name": "Mürdter 2016: paroxetine hydrochloride, 40 mg, po, md, n=3 (AS=3)",
           "FontAndSize": {
             "Fonts": {
               "AxisSize": 10,
@@ -111429,7 +111429,7 @@
               }
             }
           ],
-          "Name": "Time Profile Analysis",
+          "Name": "Mürdter 2016: paroxetine hydrochloride, 40 mg, po, md, n=3 (AS=2)",
           "FontAndSize": {
             "Fonts": {
               "AxisSize": 10,
@@ -111679,7 +111679,7 @@
               }
             }
           ],
-          "Name": "Time Profile Analysis",
+          "Name": "Mürdter 2016: paroxetine hydrochloride, 40 mg, po, md, n=3 (AS=0)",
           "FontAndSize": {
             "Fonts": {
               "AxisSize": 10,
@@ -111929,7 +111929,7 @@
               }
             }
           ],
-          "Name": "Time Profile Analysis",
+          "Name": "Mürdter 2016: paroxetine hydrochloride, 40 mg, po, md, n=2 (AS=1)",
           "FontAndSize": {
             "Fonts": {
               "AxisSize": 10,
@@ -112179,7 +112179,7 @@
               }
             }
           ],
-          "Name": "Time Profile Analysis",
+          "Name": "Mürdter 2016: paroxetine hydrochloride, 40 mg, po, md, n=4 (AS=0.5)",
           "FontAndSize": {
             "Fonts": {
               "AxisSize": 10,
@@ -112410,7 +112410,7 @@
               }
             }
           ],
-          "Name": "Time Profile Analysis",
+          "Name": "Lund 1982: paroxetine hydrochloride, 23 mg, iv, n=1 (EM), D",
           "FontAndSize": {
             "Fonts": {
               "AxisSize": 10,
@@ -112640,7 +112640,7 @@
               }
             }
           ],
-          "Name": "Time Profile Analysis",
+          "Name": "Lund 1982: paroxetine hydrochloride, 28 mg, iv, n=1 (EM), A",
           "FontAndSize": {
             "Fonts": {
               "AxisSize": 10,
@@ -112871,7 +112871,7 @@
               }
             }
           ],
-          "Name": "Time Profile Analysis",
+          "Name": "Lund 1982: paroxetine hydrochloride, 28 mg, iv, n=1 (EM), B",
           "FontAndSize": {
             "Fonts": {
               "AxisSize": 10,
@@ -113102,7 +113102,7 @@
               }
             }
           ],
-          "Name": "Time Profile Analysis",
+          "Name": "Lund 1982: paroxetine hydrochloride, 28 mg, iv, n=1 (EM), C",
           "FontAndSize": {
             "Fonts": {
               "AxisSize": 10,
@@ -113342,7 +113342,7 @@
               }
             }
           ],
-          "Name": "Time Profile Analysis",
+          "Name": "Lund 1982: paroxetine hydrochloride, 45 mg, po, n=1 (EM), A",
           "FontAndSize": {
             "Fonts": {
               "AxisSize": 10,
@@ -113582,7 +113582,7 @@
               }
             }
           ],
-          "Name": "Time Profile Analysis",
+          "Name": "Lund 1982: paroxetine hydrochloride, 45 mg, po, n=1 (EM), B",
           "FontAndSize": {
             "Fonts": {
               "AxisSize": 10,
@@ -113822,7 +113822,7 @@
               }
             }
           ],
-          "Name": "Time Profile Analysis",
+          "Name": "Lund 1982: paroxetine hydrochloride, 45 mg, po, n=1 (EM), C",
           "FontAndSize": {
             "Fonts": {
               "AxisSize": 10,
@@ -114062,7 +114062,7 @@
               }
             }
           ],
-          "Name": "Time Profile Analysis",
+          "Name": "Lund 1982: paroxetine hydrochloride, 45 mg, po, n=1 (EM), D",
           "FontAndSize": {
             "Fonts": {
               "AxisSize": 10,
@@ -114318,7 +114318,7 @@
               }
             }
           ],
-          "Name": "Time Profile Analysis",
+          "Name": "Yoon 2000: paroxetine hydrochloride, 40 mg, po, n=6 (AS=2)",
           "FontAndSize": {
             "Fonts": {
               "AxisSize": 10,
@@ -114558,7 +114558,7 @@
               }
             }
           ],
-          "Name": "Time Profile Analysis",
+          "Name": "Yoon 2000: paroxetine hydrochloride, 40 mg, po, n=1 (AS=0)",
           "FontAndSize": {
             "Fonts": {
               "AxisSize": 10,
@@ -114798,7 +114798,7 @@
               }
             }
           ],
-          "Name": "Time Profile Analysis",
+          "Name": "Yoon 2000: paroxetine hydrochloride, 40 mg, po, n=3 (AS=0.5)",
           "FontAndSize": {
             "Fonts": {
               "AxisSize": 10,
@@ -115038,7 +115038,7 @@
               }
             }
           ],
-          "Name": "Time Profile Analysis",
+          "Name": "Yoon 2000: paroxetine hydrochloride, 40 mg, po, n=6 (AS=1.25)",
           "FontAndSize": {
             "Fonts": {
               "AxisSize": 10,
@@ -115288,7 +115288,7 @@
               }
             }
           ],
-          "Name": "Time Profile Analysis",
+          "Name": "Mürdter 2016: paroxetine hydrochloride, 40 mg, po, md, n=1 (AS=0.75)",
           "FontAndSize": {
             "Fonts": {
               "AxisSize": 10,
@@ -115576,7 +115576,7 @@
               }
             }
           ],
-          "Name": "Time Profile Analysis",
+          "Name": "van der Lee 2007: paroxetine hydrochloride, 20 mg, po, md, n=26 (EM)",
           "FontAndSize": {
             "Fonts": {
               "AxisSize": 10,
@@ -116352,7 +116352,7 @@
       }
     },
     {
-      "Name": "Yasui-Furukori (2007) - paroxetine hydrochloride, 20 mg, po, n=12 (AS=1.25), paroxetine",
+      "Name": "Yasui-Furukori (2006) - paroxetine hydrochloride, 20 mg, po, n=12 (AS=1.25), paroxetine",
       "ExtendedProperties": [
         {
           "Name": "Molecule",
@@ -116382,7 +116382,7 @@
             {
               "Name": "ng/mL(1)",
               "QuantityInfo": {
-                "Path": "Yasui-Furukori (2007) - paroxetine hydrochloride, 20 mg, po, n=12 (AS=1.25), paroxetine|ObservedData|Peripheral Venous Blood|Plasma|Paroxetine|ng/mL(1)"
+                "Path": "Yasui-Furukori (2006) - paroxetine hydrochloride, 20 mg, po, n=12 (AS=1.25), paroxetine|ObservedData|Peripheral Venous Blood|Plasma|Paroxetine|ng/mL(1)"
               },
               "DataInfo": {
                 "Origin": "ObservationAuxiliary",
@@ -116408,7 +116408,7 @@
             }
           ],
           "QuantityInfo": {
-            "Path": "Yasui-Furukori (2007) - paroxetine hydrochloride, 20 mg, po, n=12 (AS=1.25), paroxetine|ObservedData|Peripheral Venous Blood|Plasma|Paroxetine|ng/mL"
+            "Path": "Yasui-Furukori (2006) - paroxetine hydrochloride, 20 mg, po, n=12 (AS=1.25), paroxetine|ObservedData|Peripheral Venous Blood|Plasma|Paroxetine|ng/mL"
           },
           "DataInfo": {
             "Origin": "Observation",
@@ -116436,7 +116436,7 @@
       "BaseGrid": {
         "Name": "h",
         "QuantityInfo": {
-          "Path": "Yasui-Furukori (2007) - paroxetine hydrochloride, 20 mg, po, n=12 (AS=1.25), paroxetine|h",
+          "Path": "Yasui-Furukori (2006) - paroxetine hydrochloride, 20 mg, po, n=12 (AS=1.25), paroxetine|h",
           "Type": "Time"
         },
         "DataInfo": {
@@ -119280,7 +119280,7 @@
         "Segura (2005) - paroxetine hydrochloride, 20 mg, po, md, n=7 (EM), paroxetine",
         "Belle (2002) - paroxetine hydrochloride, 20 mg, po, md, n=22 (EM), paroxetine",
         "Calvo (2004) - paroxetine hydrochloride, 20 mg, po, md, n=25 (EM), paroxetine",
-        "Yasui-Furukori (2007) - paroxetine hydrochloride, 20 mg, po, n=12 (AS=1.25), paroxetine",
+        "Yasui-Furukori (2006) - paroxetine hydrochloride, 20 mg, po, n=12 (AS=1.25), paroxetine",
         "Yasui-Furukori (2007) - paroxetine hydrochloride, 20 mg, po, n=13 (EM), paroxetine",
         "Schoedel (2012) - paroxetine hydrochloride, 20 mg, po, md, n=14 (EM), paroxetine",
         "van der Lee (2007) - paroxetine hydrochloride, 20 mg, po, md, n=26 (EM), paroxetine",
@@ -119336,7 +119336,7 @@
         "Calvo (2004) - paroxetine hydrochloride, 20 mg, po, md, n=25 (EM)",
         "McClelland (1984) - paroxetine hydrochloride, 70 mg, po, n=5 (EM)",
         "Schoedel (2012) - paroxetine hydrochloride, 20 mg, po, md, n=14 (EM)",
-        "Yasui-Furukori (2007) - paroxetine hydrochloride, 20 mg, po, n=12 (AS=1.25)",
+        "Yasui-Furukori (2006) - paroxetine hydrochloride, 20 mg, po, n=12 (AS=1.25)",
         "Yasui-Furukori (2007) - paroxetine hydrochloride, 20 mg, po, n=13 (EM)",
         "Chen (2015) - paroxetine hydrochloride, 25 mg, po, n=4 (AS=0.5)",
         "Chen (2015) - paroxetine hydrochloride, 25 mg, po, n=4 (AS=2)",

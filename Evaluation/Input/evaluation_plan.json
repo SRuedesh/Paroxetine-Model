@@ -73,98 +73,8 @@
     "AllPlots": [
       {
         "Project": "Paroxetine",
-        "Simulation": "Sindrup (1992) - paroxetine hydrochloride, 30 mg, po, md, n=8 (PM)",
-        "SectionId": 331
-      },
-      {
-        "Project": "Paroxetine",
-        "Simulation": "Sindrup (1992) - paroxetine hydrochloride, 30 mg, po, md, n=9 (EM)",
-        "SectionId": 331
-      },
-      {
-        "Project": "Paroxetine",
-        "Simulation": "Massaroti (2005) - paroxetine hydrochloride, 20 mg, po, n=28 (EM)",
-        "SectionId": 331
-      },
-      {
-        "Project": "Paroxetine",
-        "Simulation": "Segura (2005) - paroxetine hydrochloride, 20 mg, po, md, n=7 (EM)",
-        "SectionId": 332
-      },
-      {
-        "Project": "Paroxetine",
-        "Simulation": "Calvo (2004) - paroxetine hydrochloride, 20 mg, po, md, n=25 (EM)",
-        "SectionId": 332
-      },
-      {
-        "Project": "Paroxetine",
         "Simulation": "Belle (2002) - paroxetine hydrochloride, 20 mg, po, md, n=22 (EM)",
         "SectionId": 331
-      },
-      {
-        "Project": "Paroxetine",
-        "Simulation": "McClelland (1984) - paroxetine hydrochloride, 70 mg, po, n=5 (EM)",
-        "SectionId": 332
-      },
-      {
-        "Project": "Paroxetine",
-        "Simulation": "Schoedel (2012) - paroxetine hydrochloride, 20 mg, po, md, n=14 (EM)",
-        "SectionId": 332
-      },
-      {
-        "Project": "Paroxetine",
-        "Simulation": "Yasui-Furukori (2007) - paroxetine hydrochloride, 20 mg, po, n=12 (AS=1.25)",
-        "SectionId": 332
-      },
-      {
-        "Project": "Paroxetine",
-        "Simulation": "Yasui-Furukori (2007) - paroxetine hydrochloride, 20 mg, po, n=13 (EM)",
-        "SectionId": 332
-      },
-      {
-        "Project": "Paroxetine",
-        "Simulation": "Chen (2015) - paroxetine hydrochloride, 25 mg, po, n=4 (AS=0.5)",
-        "SectionId": 332
-      },
-      {
-        "Project": "Paroxetine",
-        "Simulation": "Chen (2015) - paroxetine hydrochloride, 25 mg, po, n=4 (AS=2)",
-        "SectionId": 332
-      },
-      {
-        "Project": "Paroxetine",
-        "Simulation": "Chen (2015) - paroxetine hydrochloride, 25 mg, po, n=5 (AS=1.5)",
-        "SectionId": 332
-      },
-      {
-        "Project": "Paroxetine",
-        "Simulation": "Chen (2015) - paroxetine hydrochloride, 25 mg, po, n=11 (AS=1)",
-        "SectionId": 332
-      },
-      {
-        "Project": "Paroxetine",
-        "Simulation": "Mürdter (2016) - paroxetine hydrochloride, 40 mg, po, md, n=3 (AS=3)",
-        "SectionId": 332
-      },
-      {
-        "Project": "Paroxetine",
-        "Simulation": "Mürdter (2016) - paroxetine hydrochloride, 40 mg, po, md, n=3 (AS=2)",
-        "SectionId": 331
-      },
-      {
-        "Project": "Paroxetine",
-        "Simulation": "Mürdter (2016) - paroxetine hydrochloride, 40 mg, po, md, n=3 (AS=0)",
-        "SectionId": 332
-      },
-      {
-        "Project": "Paroxetine",
-        "Simulation": "Mürdter (2016) - paroxetine hydrochloride, 40 mg, po, md, n=2 (AS=1)",
-        "SectionId": 332
-      },
-      {
-        "Project": "Paroxetine",
-        "Simulation": "Mürdter (2016) - paroxetine hydrochloride, 40 mg, po, md, n=4 (AS=0.5)",
-        "SectionId": 332
       },
       {
         "Project": "Paroxetine",
@@ -208,8 +118,108 @@
       },
       {
         "Project": "Paroxetine",
+        "Simulation": "Massaroti (2005) - paroxetine hydrochloride, 20 mg, po, n=28 (EM)",
+        "SectionId": 331
+      },
+      {
+        "Project": "Paroxetine",
+        "Simulation": "Mürdter (2016) - paroxetine hydrochloride, 40 mg, po, md, n=3 (AS=2)",
+        "SectionId": 331
+      },
+      {
+        "Project": "Paroxetine",
+        "Simulation": "Sindrup (1992) - paroxetine hydrochloride, 30 mg, po, md, n=9 (EM)",
+        "SectionId": 331
+      },
+      {
+        "Project": "Paroxetine",
+        "Simulation": "Sindrup (1992) - paroxetine hydrochloride, 30 mg, po, md, n=8 (PM)",
+        "SectionId": 331
+      },
+      {
+        "Project": "Paroxetine",
         "Simulation": "Yoon (2000) - paroxetine hydrochloride, 40 mg, po, n=6 (AS=2)",
         "SectionId": 331
+      },
+      {
+        "Project": "Paroxetine",
+        "Simulation": "Calvo (2004) - paroxetine hydrochloride, 20 mg, po, md, n=25 (EM)",
+        "SectionId": 332
+      },
+      {
+        "Project": "Paroxetine",
+        "Simulation": "Chen (2015) - paroxetine hydrochloride, 25 mg, po, n=4 (AS=0.5)",
+        "SectionId": 332
+      },
+      {
+        "Project": "Paroxetine",
+        "Simulation": "Chen (2015) - paroxetine hydrochloride, 25 mg, po, n=11 (AS=1)",
+        "SectionId": 332
+      },
+      {
+        "Project": "Paroxetine",
+        "Simulation": "Chen (2015) - paroxetine hydrochloride, 25 mg, po, n=5 (AS=1.5)",
+        "SectionId": 332
+      },
+      {
+        "Project": "Paroxetine",
+        "Simulation": "Chen (2015) - paroxetine hydrochloride, 25 mg, po, n=4 (AS=2)",
+        "SectionId": 332
+      },
+      {
+        "Project": "Paroxetine",
+        "Simulation": "McClelland (1984) - paroxetine hydrochloride, 70 mg, po, n=5 (EM)",
+        "SectionId": 332
+      },
+      {
+        "Project": "Paroxetine",
+        "Simulation": "Mürdter (2016) - paroxetine hydrochloride, 40 mg, po, md, n=3 (AS=0)",
+        "SectionId": 332
+      },
+      {
+        "Project": "Paroxetine",
+        "Simulation": "Mürdter (2016) - paroxetine hydrochloride, 40 mg, po, md, n=4 (AS=0.5)",
+        "SectionId": 332
+      },
+      {
+        "Project": "Paroxetine",
+        "Simulation": "Mürdter (2016) - paroxetine hydrochloride, 40 mg, po, md, n=1 (AS=0.75)",
+        "SectionId": 332
+      },
+      {
+        "Project": "Paroxetine",
+        "Simulation": "Mürdter (2016) - paroxetine hydrochloride, 40 mg, po, md, n=2 (AS=1)",
+        "SectionId": 332
+      },
+      {
+        "Project": "Paroxetine",
+        "Simulation": "Mürdter (2016) - paroxetine hydrochloride, 40 mg, po, md, n=3 (AS=3)",
+        "SectionId": 332
+      },
+      {
+        "Project": "Paroxetine",
+        "Simulation": "Schoedel (2012) - paroxetine hydrochloride, 20 mg, po, md, n=14 (EM)",
+        "SectionId": 332
+      },
+      {
+        "Project": "Paroxetine",
+        "Simulation": "Segura (2005) - paroxetine hydrochloride, 20 mg, po, md, n=7 (EM)",
+        "SectionId": 332
+      },
+      {
+        "Project": "Paroxetine",
+        "Simulation": "van der Lee (2007) - paroxetine hydrochloride, 20 mg, po, md, n=26 (EM)",
+        "SectionId": 332
+      },
+      {
+        "Project": "Paroxetine",
+        "Simulation": "Yasui-Furukori (2006) - paroxetine hydrochloride, 20 mg, po, n=12 (AS=1.25)",
+        "SectionId": 332
+      },
+      {
+        "Project": "Paroxetine",
+        "Simulation": "Yasui-Furukori (2007) - paroxetine hydrochloride, 20 mg, po, n=13 (EM)",
+        "SectionId": 332
       },
       {
         "Project": "Paroxetine",
@@ -225,21 +235,11 @@
         "Project": "Paroxetine",
         "Simulation": "Yoon (2000) - paroxetine hydrochloride, 40 mg, po, n=6 (AS=1.25)",
         "SectionId": 332
-      },
-      {
-        "Project": "Paroxetine",
-        "Simulation": "Mürdter (2016) - paroxetine hydrochloride, 40 mg, po, md, n=1 (AS=0.75)",
-        "SectionId": 332
-      },
-      {
-        "Project": "Paroxetine",
-        "Simulation": "van der Lee (2007) - paroxetine hydrochloride, 20 mg, po, md, n=26 (EM)",
-        "SectionId": 332
       }
     ],
     "GOFMergedPlots": [
       {
-        "Title": "Observed versus simulated concentration-time data for all modeled compounds",
+        "Title": "Paroxetine goodness-of-fit diagnostics",
         "SectionId": 32,
         "Artifacts": [
           "Plot",
@@ -397,9 +397,9 @@
               },
               {
                 "Project": "Paroxetine",
-                "Simulation": "Yasui-Furukori (2007) - paroxetine hydrochloride, 20 mg, po, n=12 (AS=1.25)",
+                "Simulation": "Yasui-Furukori (2006) - paroxetine hydrochloride, 20 mg, po, n=12 (AS=1.25)",
                 "Output": "Organism|PeripheralVenousBlood|Paroxetine|Plasma (Peripheral Venous Blood)",
-                "ObservedData": "Yasui-Furukori (2007) - paroxetine hydrochloride, 20 mg, po, n=12 (AS=1.25), paroxetine",
+                "ObservedData": "Yasui-Furukori (2006) - paroxetine hydrochloride, 20 mg, po, n=12 (AS=1.25), paroxetine",
                 "Color": "#FF0000"
               },
               {
@@ -556,22 +556,22 @@
         },
         {
           "Id": 32,
-          "Title": "Paroxetine diagnostics plots",
+          "Title": "Diagnostic plots",
           "Content": "Content/GOF_diagnostics.md"
         },
         {
           "Id": 33,
-          "Title": "Concentration-Time Profiles",
+          "Title": "Concentration-time profiles",
           "Content": "Content/Concentration_time_profiles.md",
           "Sections": [
             {
               "Id": 331,
-              "Title": "Model Building",
+              "Title": "Model building",
               "Content": "Content/Concentration_time_profiles_building.md"
             },
             {
               "Id": 332,
-              "Title": "Model Verification",
+              "Title": "Model verification",
               "Content": "Content/Concentration_time_profiles_verification.md"
             }
           ]

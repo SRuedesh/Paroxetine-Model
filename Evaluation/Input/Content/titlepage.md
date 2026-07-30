@@ -1,4 +1,4 @@
-# Building and evaluation of a PBPK model for Paroxetine in adults
+# Building and evaluation of a PBPK model for Paroxetine in CYP2D6 phenotype and activity-score groups
 
 
 

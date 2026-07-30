@@ -29,7 +29,7 @@ This repository contains:
 - static content (e.g. text blocks, *.md files) as inputs for an evaluation plan
 - an evaluation plan (evaluation_plan.json) to create an evaluation report using the snapshot and static text blocks to display the performance of the model
 
-**The latest release of the snapshot of the model, the evaluation plan and the static content can be found in the [latest release in this repository](./releases/latest).**
+**The latest release of the snapshot of the model, the evaluation plan and the static content can be found in the [latest release in this repository](https://github.com/Open-Systems-Pharmacology/Paroxetine-Model/releases/latest).**
 
 **The latest release of the PK-Sim project model file and the respective evaluation report can be found in the [latest OSP PBPK Model Library release](https://github.com/Open-Systems-Pharmacology/OSP-PBPK-Model-Library/releases/latest).**
 
@@ -57,7 +57,7 @@ The model code is distributed under the [GPLv2 License](https://github.com/Open-
 
 [7] T Mürdter, et al. Impact of CYP2D6 genotype and co-medication with paroxetine and clarithromycin on clomiphene metabolism in vivo. Naunyn-Schmiedeberg's Arch Pharmacol, 2016;389:8.
 
-[8] G Calvo, et al. Lack of pharmacologic interaction between paroxetine and alprazolam at steady state in healthy volunteers. J Clin Psychopharmacol, 2004;24:268-276. doi: [DOI](https://doi.org/10.1097/01.jcp.0000125681.30544.bf).
+[8] G Calvo, et al. Lack of pharmacologic interaction between paroxetine and alprazolam at steady state in healthy volunteers. J Clin Psychopharmacol, 2004;24:268-276. doi: [10.1097/01.jcp.0000125681.30544.bf](https://doi.org/10.1097/01.jcp.0000125681.30544.bf).
 
 [9] R Chen, H Wang, J Shi, K Shen, P Hu. CYP2D6 genotype affects controlled-release paroxetine pharmacokinetics in healthy Chinese subjects. Eur J Clin Pharmacol, 2015;71:835-841. doi: [10.1007/s00228-015-1863-8](https://doi.org/10.1007/s00228-015-1863-8).
 
@@ -71,4 +71,4 @@ The model code is distributed under the [GPLv2 License](https://github.com/Open-
 
 [14] N Yasui-Furukori, et al. Terbinafine increases plasma concentration of paroxetine after single oral administration. Eur J Clin Pharmacol, 2006;63:51-56. doi: [10.1007/s00228-006-0219-7](https://doi.org/10.1007/s00228-006-0219-7).
 
-[15] N Yasui-Furukori, et al. Effect of itraconazole on pharmacokinetics of paroxetine. Ther Drug Monit, 2007;29:45-48. doi: [DOI](https://doi.org/10.1097/FTD.0b013e3180307e48).
+[15] N Yasui-Furukori, et al. Effect of itraconazole on pharmacokinetics of paroxetine. Ther Drug Monit, 2007;29:45-48. doi: [10.1097/FTD.0b013e3180307e48](https://doi.org/10.1097/FTD.0b013e3180307e48).

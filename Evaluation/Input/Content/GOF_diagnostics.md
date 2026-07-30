@@ -1,1 +1,1 @@
-The goodness-of-fit diagnostics combine all modeled compounds in one set of plots. Colors and symbols identify compounds consistently with the concentration-time profiles. Administration route, formulation, and model-building or verification status are not used to split the diagnostics.
+The goodness-of-fit diagnostics combine all paroxetine observations in one set of plots. The plot does not split model-building and model-verification observations. Use the concentration-time profile sections for that comparison.
