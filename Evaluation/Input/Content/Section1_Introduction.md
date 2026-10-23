@@ -8,6 +8,7 @@ The presented model includes the following features:
 
 - CYP2D6-mediated metabolism with activity-score specific k<sub>cat</sub> values,
 - CYP3A4-mediated metabolism,
+- mechanism-based inactivation of CYP2D6 and CYP3A4 by paroxetine,
 - unspecific hepatic clearance,
 - renal filtration with a GFR fraction of 1,
 - intravenous infusion, immediate-release oral, tablet, and controlled-release oral applications.

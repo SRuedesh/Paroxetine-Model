@@ -8,27 +8,29 @@ The table below summarizes the drug-dependent inputs documented for the paroxeti
 | pK<sub>a</sub>,base | - | 9.9 | [Agrawal 2013](#5) | pKa of a basic ionization site. |
 | Solubility | mg/mL | 7.31 | [Khatavkar 2016](#5) | Aqueous solubility at pH 4.5. |
 | logP | - | 3.95 | [Agrawal 2013](#5) | Octanol-water partition coefficient of the neutral species. |
-| f<sub>u</sub> | % | 4.873 | Optimized; [Kaye 1989](#5) | Fraction unbound in plasma. |
+| f<sub>u</sub> | % | 4.873<sup>d</sup> | Optimized; [Kaye 1989](#5) | Fraction unbound in plasma. |
 | K<sub>m,CYP3A4</sub> | µmol/L | 4.7 | [Jornil 2010](#5) | Michaelis constant for CYP3A4-mediated metabolism. |
 | k<sub>cat,CYP3A4</sub> | 1/min | 1.01 | Optimized; [Jornil 2010](#5) | Catalytic rate constant for CYP3A4-mediated metabolism. |
 | K<sub>m,CYP2D6</sub> | µmol/L | 0.028 | [Jornil 2010](#5) | Activity-score-invariant Michaelis constant for CYP2D6-mediated metabolism. |
 | k<sub>cat,CYP2D6</sub>, EM | 1/min | 1.3693020782 | Optimized; [Jornil 2010](#5) | Catalytic rate constant for the extensive-metabolizer pathway. |
 | k<sub>cat,CYP2D6</sub>, PM | 1/min | 0 | Assumed; [Jornil 2010](#5) | Catalytic rate constant for the poor-metabolizer pathway. |
-| CL<sub>hep</sub> | 1/min | 2.2538632474<sup>c</sup> | Optimized; [Jornil 2010](#5) | CYP2D6-independent hepatic clearance. |
-| K<sub>i,CYP2D6</sub> | µmol/L | 0.16738 | Optimized; [Venkatakrishnan 2005](#5) | Inhibition constant for mechanism-based CYP2D6 inhibition. |
+| CL<sub>hep</sub> | 1/min | 2.2538632474<sup>c</sup> | Optimized; [Jornil 2010](#5) | Unspecific hepatic clearance. |
+| K<sub>I,CYP2D6</sub> | µmol/L | 0.16738 | Optimized; [Venkatakrishnan 2005](#5) | Inactivator concentration at half-maximal inactivation rate of CYP2D6. |
 | k<sub>inact,CYP2D6</sub> | 1/min | 0.17 | [Venkatakrishnan 2005](#5) | Maximum CYP2D6 inactivation rate constant. |
-| K<sub>i,CYP3A4</sub> | µmol/L | 4.48 | [Bertelsen 2003](#5) | Inhibition constant for mechanism-based CYP3A4 inhibition. |
+| K<sub>I,CYP3A4</sub> | µmol/L | 4.48 | [Bertelsen 2003](#5) | Inactivator concentration at half-maximal inactivation rate of CYP3A4. |
 | k<sub>inact,CYP3A4</sub> | 1/min | 0.011 | [Bertelsen 2003](#5) | Maximum CYP3A4 inactivation rate constant. |
 | GFR fraction | - | 1 | Assumed | Fraction used to scale passive glomerular filtration. |
 | Weibull shape | - | 7.17 | Optimized | Shape parameter for controlled-release dissolution. |
 | t<sub>50</sub> | min | 276.35 | Optimized; [Chen 2015](#5); [Khatavkar 2013](#5) | Time to dissolve 50% of the controlled-release dose. |
 | Partition coefficients | - | Rodgers and Rowland | Calculated; [Rodgers 2007](#5) | Tissue-to-plasma partition coefficients calculated with the Rodgers and Rowland method. |
-| Cellular permeabilities | - | PK-Sim Standard | Calculated | Cellular permeabilities calculated with the PK-Sim Standard method. |
+| Cellular permeabilities | - | PK-Sim Standard | Calculated ([Kawai 1994](#5)) | Cellular permeabilities calculated with the PK-Sim Standard method. |
 | P<sub>int</sub> | cm/min | 3.93 × 10<sup>−5</sup> | Optimized | Specific transcellular intestinal permeability. |
 
 **Table 1:**<a name="table-1"></a> Drug-dependent physicochemical, distribution, metabolism, elimination, inhibition, and formulation parameters used in the final paroxetine model.
 
-<sup>c</sup> The optimized snapshot value is retained. The supplement to [Rüdesheim 2022](#5) reports 1.37 1/min.
+<sup>c</sup> The optimized model value is retained. The supplement to [Rüdesheim 2022](#5) reports 1.37 1/min.
+
+<sup>d</sup> The optimized model value is retained. The supplement to [Rüdesheim 2022](#5) reports the literature value 5.00% ([Kaye 1989](#5)).
 
 The CYP2D6 activity-score-specific catalytic rate constants implemented in the model are listed below.
 
@@ -68,21 +70,21 @@ The evaluation uses 33 plasma concentration-time profiles from adults ([Table 2]
 | [Massaroti 2005](#5)<sup>+</sup> | 20 | 28 (18–42) | 72 (57–87) | Male | 28 | Tablet | EM |
 | [McClelland 1984](#5) | 70 | 31 (22–44) | NR | Male | 5 | NR | EM |
 | [Mürdter 2016](#5) | 40 q.d., 3 days | 25 (22–26) | 62 (50–70) | Female | 3 | Tablet | AS = 0 (PM) |
-| [Mürdter 2016](#5) | 40 q.d., 3 days | 24 (21–29) | 59 (56–64) | Female | 4 | Tablet | AS = 0.5 (IM) |
+| [Mürdter 2016](#5) | 40 q.d., 3 days | 24 (21–30) | 59 (56–64) | Female | 4 | Tablet | AS = 0.5 (IM) |
 | [Mürdter 2016](#5) | 40 q.d., 3 days | 25 | 68 | Female | 1 | Tablet | AS = 0.75 (IM) |
 | [Mürdter 2016](#5) | 40 q.d., 3 days | 26 (23–28) | 67 (64–74) | Female | 2 | Tablet | AS = 1 (IM) |
 | [Mürdter 2016](#5)<sup>+</sup> | 40 q.d., 3 days | 32 (26–43) | 57 (48–64) | Female | 3 | Tablet | AS = 2 (NM) |
 | [Mürdter 2016](#5) | 40 q.d., 3 days | 26 (22–28) | 62 (54–73) | Female | 3 | Tablet | AS = 3 (UM) |
 | [Schoedel 2012](#5) | 20 q.d., 12 days | 34 (19–55) | 75 | 14% female | 14 | NR | EM |
 | [Segura 2005](#5) | 20 q.d., 2 days | 23 | 65 | Male | 7 | Tablet | EM |
-| [Sindrup 1992](#5)<sup>+</sup> | 30 q.d., 14 doses | 24 (20–30) | 73 (65–81) | Male | 9 | Tablet | EM |
+| [Sindrup 1992](#5)<sup>+</sup> | 30 q.d., 14 doses | 24 (20–30) | 73 (65–81) | Male | 9 | Tablet | EM<sup>¶</sup> |
 | [Sindrup 1992](#5)<sup>+</sup> | 30 q.d., 14 doses | 27 (23–39) | 82 (68–95) | Male | 8 | Tablet | PM |
 | [van der Lee 2007](#5) | 20 q.d., 10 days | 44 (18–64) | 69 (51–89) | 69% female | 26 | Tablet | EM |
 | [Yasui-Furukori 2006](#5) | 20 | 25 (20–35) | 58 (46–75) | 25% female | 12 | NR | AS = 1.25 (NM) |
-| [Yasui-Furukori 2007](#5) | 20 | 24 (21–35) | 57 (45–67) | 23% female | 13 | NR | EM |
+| [Yasui-Furukori 2007](#5) | 20 | 24 (21–35) | 57 (45–67) | 23% female | 13 | NR | EM<sup>§</sup> |
 | [Yoon 2000](#5) | 40 | 21 | 58 | Female | 1 | Tablet | AS = 0 (PM) |
 | [Yoon 2000](#5) | 40 | 22 | 68 | Male | 3 | Tablet | AS = 0.5 (IM) |
 | [Yoon 2000](#5) | 40 | 22 | 67 | Male | 6 | Tablet | AS = 1.25 (NM) |
 | [Yoon 2000](#5)<sup>+</sup> | 40 | 23 | 59 | 17% female | 6 | Tablet | AS = 2 (NM) |
 
-**Table 2:**<a name="table-2"></a> Clinical paroxetine concentration-time profiles used for model building and verification. \*: Single oral dose unless otherwise specified; AS: activity score; CR: controlled release; EM: extensive metabolizer; IM: intermediate metabolizer; NM: normal metabolizer; NR: not reported; PM: poor metabolizer; PT: predicted phenotype; q.d.: once daily; UM: ultrarapid metabolizer; <sup>+</sup>: data used for model building. Parenthetical PTs for AS-coded rows use the current CPIC CYP2D6 activity score-to-phenotype mapping ([Moore 2026](#5)). EM is the model default when study-specific CYP2D6 information is not available.
+**Table 2:**<a name="table-2"></a> Clinical paroxetine concentration-time profiles used for model building and verification. \*: Single oral dose unless otherwise specified; AS: activity score; CR: controlled release; EM: extensive metabolizer; IM: intermediate metabolizer; NM: normal metabolizer; NR: not reported; PM: poor metabolizer; PT: predicted phenotype; q.d.: once daily; UM: ultrarapid metabolizer; <sup>+</sup>: data used for model building. Parenthetical PTs for AS-coded rows use the current CPIC CYP2D6 activity score-to-phenotype mapping ([Moore 2026](#5)). EM is the model default when study-specific CYP2D6 information is not available. <sup>§</sup>: CYP2D6 status not reported. AS = 1.25 was assumed because the study population is similar to [Yasui-Furukori 2006](#5). The simulation uses the AS = 1.25 k<sub>cat</sub> ([Table 1a](#table-1a)). <sup>¶</sup>: phenotyped EM group. AS = 2 was assumed because of the low sparteine metabolic ratio. The simulation uses the AS = 2 k<sub>cat</sub> ([Table 1a](#table-1a)).

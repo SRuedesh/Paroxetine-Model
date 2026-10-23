@@ -18,7 +18,7 @@ Two metabolic pathways and one residual hepatic clearance process were implement
 
 * CYP2D6
 
-CYP2D6 metabolism is represented by Michaelis-Menten kinetics. Activity-score-dependent k<sub>cat</sub> values are implemented as separate CYP2D6 processes. The extensive-metabolizer k<sub>cat</sub> was optimized, the poor-metabolizer value was set to zero, and other activity-score values were calculated from the regression described by [Rüdesheim 2022](#5).
+CYP2D6 metabolism is represented by Michaelis-Menten kinetics. Two CYP2D6 parameter sets are used. Study arms with an EM phenotype, reported or model default, use the EM k<sub>cat</sub> ([Table 1](#table-1)). Study arms with a reported activity score use separate activity-score CYP2D6 processes ([Table 1a](#table-1a)). The EM k<sub>cat</sub> and the AS = 2 k<sub>cat</sub> were optimized, the AS = 0 value was set to zero, and the other activity-score values were calculated from the regression described by [Rüdesheim 2022](#5). The EM k<sub>cat</sub> is 35% lower than the AS = 1.25 k<sub>cat</sub>. [Rüdesheim 2022](#5) attributes this difference to the often arbitrary definition of the EM phenotype. Exceptions: the [Yasui-Furukori 2007](#5) arm has no reported CYP2D6 data and uses the AS = 1.25 k<sub>cat</sub>. The phenotyped EM arm of [Sindrup 1992](#5) uses the AS = 2 k<sub>cat</sub>.
 
 * CYP3A4
 

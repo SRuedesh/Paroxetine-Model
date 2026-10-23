@@ -105267,7 +105267,7 @@
         ],
         "Species": "Human",
         "Population": "European_ICRP_2002",
-        "Gender": "MALE",
+        "Gender": "FEMALE",
         "Age": {
           "Value": 24,
           "Unit": "year(s)"
@@ -105426,7 +105426,7 @@
         ],
         "Species": "Human",
         "Population": "European_ICRP_2002",
-        "Gender": "MALE",
+        "Gender": "FEMALE",
         "Age": {
           "Value": 32,
           "Unit": "year(s)"
@@ -106383,7 +106383,7 @@
               "ValueOrigin": {
                 "Source": "Other",
                 "Method": "Assumption",
-                "Description": "Assumed in Supplementary Table S2.1.1"
+                "Description": "Assumed"
               }
             }
           ]
@@ -106467,8 +106467,9 @@
               "Value": 4.09,
               "Unit": "1/min",
               "ValueOrigin": {
-                "Source": "Other",
-                "Method": "ManualFit"
+                "Source": "ParameterIdentification",
+                "Method": "ParameterIdentification",
+                "Description": "Optimized"
               }
             }
           ]
@@ -106621,7 +106622,9 @@
               "Value": 0,
               "Unit": "1/min",
               "ValueOrigin": {
-                "Source": "Unknown"
+                "Source": "Other",
+                "Method": "Assumption",
+                "Description": "Assumed"
               }
             }
           ]
@@ -112583,6 +112586,7 @@
               "MoleculeName": "Liver_influx_gemfibrozil"
             },
             {
+              "Name": "Glomerular Filtration-Assumption",
               "SystemicProcessType": "GFR"
             }
           ],
@@ -119324,14 +119328,15 @@
         "Lund (1982) - paroxetine hydrochloride, 45 mg, po, n=1 (EM), A",
         "Lund (1982) - paroxetine hydrochloride, 45 mg, po, n=1 (EM), B",
         "Lund (1982) - paroxetine hydrochloride, 45 mg, po, n=1 (EM), C",
-        "Lund (1982) - paroxetine hydrochloride, 45 mg, po, n=1 (EM), D"
+        "Lund (1982) - paroxetine hydrochloride, 45 mg, po, n=1 (EM), D",
+        "Sindrup (1992) - paroxetine hydrochloride, 30 mg, po, md, n=8 (PM)",
+        "Sindrup (1992) - paroxetine hydrochloride, 30 mg, po, md, n=9 (EM)",
+        "Yoon (2000) - paroxetine hydrochloride, 40 mg, po, n=6 (AS=2)"
       ]
     },
     {
       "Name": "external_dataset",
       "Classifiables": [
-        "Sindrup (1992) - paroxetine hydrochloride, 30 mg, po, md, n=8 (PM)",
-        "Sindrup (1992) - paroxetine hydrochloride, 30 mg, po, md, n=9 (EM)",
         "Segura (2005) - paroxetine hydrochloride, 20 mg, po, md, n=7 (EM)",
         "Calvo (2004) - paroxetine hydrochloride, 20 mg, po, md, n=25 (EM)",
         "McClelland (1984) - paroxetine hydrochloride, 70 mg, po, n=5 (EM)",
@@ -119346,7 +119351,6 @@
         "Mürdter (2016) - paroxetine hydrochloride, 40 mg, po, md, n=3 (AS=0)",
         "Mürdter (2016) - paroxetine hydrochloride, 40 mg, po, md, n=2 (AS=1)",
         "Mürdter (2016) - paroxetine hydrochloride, 40 mg, po, md, n=4 (AS=0.5)",
-        "Yoon (2000) - paroxetine hydrochloride, 40 mg, po, n=6 (AS=2)",
         "Yoon (2000) - paroxetine hydrochloride, 40 mg, po, n=1 (AS=0)",
         "Yoon (2000) - paroxetine hydrochloride, 40 mg, po, n=3 (AS=0.5)",
         "Yoon (2000) - paroxetine hydrochloride, 40 mg, po, n=6 (AS=1.25)",
